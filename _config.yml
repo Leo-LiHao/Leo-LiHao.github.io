@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hao Li"
-  pronouns         : he/him
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  pronouns         : He/Him
+  bio              : "Postdoc @ SAIL lab"
+  location         : "Kingston, Ontario, Canada"
   employer         : "Queen's Univeristy"
   uri              : # URL
-  email            : "hao.li [at] queensu.ca" 
+  email            : "hao.li@queensu.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Leo-LiHao"
+  github           : "Leo-LiHao"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
