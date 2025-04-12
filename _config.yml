@@ -13,7 +13,7 @@ title                    : "Hao Li"
 title_separator          : "-"
 name                     : &name "Hao Li's Website"
 description              : &description ""
-url                      : https://leo-lihao.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://leo-lihao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Leo-LiHao/Leo-LiHao.github.io"
 
