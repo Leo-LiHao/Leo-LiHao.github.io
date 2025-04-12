@@ -16,7 +16,7 @@ I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (S
 ## Selected Publications
 
 - **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
-  *2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)*  
+  *ICSE-SEIP, 2025*  
   [[PDF]](https://leo-lihao.github.io/files/C1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/C1.bib)
 
 - **Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems**  
@@ -41,6 +41,5 @@ I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (S
 
 - IEEE Transactions on Software Engineering (TSE).
 - Empirical Software Engineering Journal (EMSE).
+- Nature - Scientific Data.
 - Software Quality Journal.
-- Scientific Data.
-- Patterns.
