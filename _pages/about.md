@@ -15,27 +15,27 @@ I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (S
 
 ## Publications
 
-- **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**
+- **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
   ***Hao Li***, Cor-Paul Bezemer, Ahmed E. Hassan  
-  *ICSE-SEIP, 2025*  
+  *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*  
   [[PDF]](https://leo-lihao.github.io/files/C1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/C1.bib)
 
-- **Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality**
+- **Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality**  
   ***Hao Li***, Gopi Krishnan Rajbahadur, Cor-Paul Bezemer  
   *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*  
   [[PDF]](https://leo-lihao.github.io/files/J3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J3.bib)
 
-- **Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems**
+- **Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems**  
   ***Hao Li***, Cor-Paul Bezemer  
   *Empirical Software Engineering (EMSE), 2024*  
   [[PDF]](https://leo-lihao.github.io/files/J4.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J4.bib)
 
-- **Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**
+- **Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**  
   ***Hao Li***, Gopi Krishnan Rajbahadur, Dayi Lin, Cor-Paul Bezemer, Zhen Ming (Jack) Jiang  
   *IEEE Access, 2024*  
   [[PDF]](https://leo-lihao.github.io/files/J2.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J2.bib)
 
-- **An Empirical Study of Yanked Releases in the Rust Package Registry**
+- **An Empirical Study of Yanked Releases in the Rust Package Registry**  
   ***Hao Li***, Filipe R. Cogo, Cor-Paul Bezemer  
   *IEEE Transactions on Software Engineering (TSE), 2023*  
   [[PDF]](https://leo-lihao.github.io/files/J1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J1.bib)
