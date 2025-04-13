@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,8 @@ I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (S
 - Artificial Intelligence for Software Engineering (AI4SE)
 
 ## Publications
+
+For the most up-to-date list of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=3xI3QLsAAAAJ&hl=en).
 
 - **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
   ***Hao Li***, Cor-Paul Bezemer, Ahmed E. Hassan  
