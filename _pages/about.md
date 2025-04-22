@@ -17,17 +17,17 @@ I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (S
 
 For the most up-to-date list of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=3xI3QLsAAAAJ&hl=en).
 
-- **Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations**
-  Pouya Fathollahzadeh, Mariam El Mezouar, ***Hao Li***, Ying Zou, Ahmed E Hassan
-  *Under Review*
+- **Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations**  
+  Pouya Fathollahzadeh, Mariam El Mezouar, ***Hao Li***, Ying Zou, Ahmed E. Hassan  
+  *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P1.bib)
 
-- **SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms**
-  Lin Geng, ***Hao Li***, Sidney Givigi, Bram Adams
-  *Under Review*
+- **SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms**  
+  Lin Geng, ***Hao Li***, Sidney Givigi, Bram Adams  
+  *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P2.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P2.bib)
 
-- **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**
+- **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
   ***Hao Li***, Cor-Paul Bezemer, Ahmed E. Hassan  
   *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*  
   [[PDF]](https://leo-lihao.github.io/files/C1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/C1.bib)
