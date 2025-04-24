@@ -27,6 +27,11 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P2.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P2.bib)
 
+- **A Systematic Literature Review of Software Engineering Research on Jupyter Notebook**  
+  Md Saeed Siddik, ***Hao Li***, Cor-Paul Bezemer  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P3.bib)
+
 - **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
   ***Hao Li***, Cor-Paul Bezemer, Ahmed E. Hassan  
   *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*  
