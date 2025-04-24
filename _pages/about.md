@@ -17,6 +17,8 @@ I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (S
 
 For the most up-to-date list of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=3xI3QLsAAAAJ&hl=en).
 
+### Preprints
+
 - **Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations**  
   Pouya Fathollahzadeh, Mariam El Mezouar, ***Hao Li***, Ying Zou, Ahmed E. Hassan  
   *Under Review*  
@@ -32,10 +34,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P3.bib)
 
-- **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
-  ***Hao Li***, Cor-Paul Bezemer, Ahmed E. Hassan  
-  *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*  
-  [[PDF]](https://leo-lihao.github.io/files/C1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/C1.bib)
+### Journal Articles
 
 - **Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality**  
   ***Hao Li***, Gopi Krishnan Rajbahadur, Cor-Paul Bezemer  
@@ -56,6 +55,13 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
   ***Hao Li***, Filipe R. Cogo, Cor-Paul Bezemer  
   *IEEE Transactions on Software Engineering (TSE), 2023*  
   [[PDF]](https://leo-lihao.github.io/files/J1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J1.bib)
+
+### Conference Papers
+
+- **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
+  ***Hao Li***, Cor-Paul Bezemer, Ahmed E. Hassan  
+  *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*  
+  [[PDF]](https://leo-lihao.github.io/files/C1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/C1.bib)
 
 ## Services
 
