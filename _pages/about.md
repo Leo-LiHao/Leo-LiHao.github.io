@@ -34,6 +34,11 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P3.bib)
 
+- **Can We Recycle Our Old Models? An Empirical Evaluation of Model Selection Mechanisms for AIOps Solutions**
+  Yingzhe Lyu, ***Hao Li***, Heng Li, Ahmed E. Hassan  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P4.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P4.bib)
+
 ### Journal Articles
 
 - **Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality**  
@@ -69,6 +74,9 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 - The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Artifact Evaluation Track, 2024.
 
 ### Talks
+- [Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/54/Software-Engineering-and-Foundation-Models-Insights-from-Industry-Blogs-Using-a-Jury), Software Engineering in Practice (SEIP), Presented at the 47th International Conference on Software Engineering (ICSE 2025).
+- [Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/76/Bridging-the-Language-Gap-An-Empirical-Study-of-Bindings-for-Open-Source-Machine-Lea), Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025).
+- [Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/1/Studying-the-Impact-of-TensorFlow-and-PyTorch-Bindings-on-Machine-Learning-Software-Q), Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025).
 - AIware Leadership Bootcamp 2024 [[Slides]](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [[Video]](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [[Link]](https://www.aiwarebootcamp.io/)
 
 ### Journal Reviewer
