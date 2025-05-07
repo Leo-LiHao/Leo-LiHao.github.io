@@ -34,7 +34,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P3.bib)
 
-- **Can We Recycle Our Old Models? An Empirical Evaluation of Model Selection Mechanisms for AIOps Solutions**
+- **Can We Recycle Our Old Models? An Empirical Evaluation of Model Selection Mechanisms for AIOps Solutions**  
   Yingzhe Lyu, ***Hao Li***, Heng Li, Ahmed E. Hassan  
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P4.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P4.bib)
