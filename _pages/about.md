@@ -84,6 +84,6 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 - IEEE Transactions on Software Engineering (TSE).
 - Springer Empirical Software Engineering (EMSE).
 - Nature Scientific Data.
-- Springer Software Quality.
+- Springer Software Quality Journal.
 - Elsevier Patterns.
 - PeerJ Computer Science.
