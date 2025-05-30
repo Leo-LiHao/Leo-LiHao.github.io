@@ -9,15 +9,28 @@ redirect_from:
 
 I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). Before joining Queen’s University, I received my Ph.D. from the University of Alberta in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en). My research focuses on:
 
-- Software Package Ecosystems
-- Software Engineering for Artificial Intelligence (SE4AI)
-- Artificial Intelligence for Software Engineering (AI4SE)
+## 🔬 Research Focus
 
-## Publications
+<div class="research-areas">
+  <div class="research-item">
+    <i class="fas fa-cube"></i>
+    <strong>Software Package Ecosystems</strong>
+  </div>
+  <div class="research-item">
+    <i class="fas fa-robot"></i>
+    <strong>Software Engineering for Artificial Intelligence (SE4AI)</strong>
+  </div>
+  <div class="research-item">
+    <i class="fas fa-brain"></i>
+    <strong>Artificial Intelligence for Software Engineering (AI4SE)</strong>
+  </div>
+</div>
+
+## 📚 Publications
 
 For the most up-to-date list of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=3xI3QLsAAAAJ&hl=en).
 
-### Preprints
+### 📄 Preprints
 
 - **Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations**  
   Pouya Fathollahzadeh, Mariam El Mezouar, ***Hao Li***, Ying Zou, Ahmed E. Hassan  
@@ -39,7 +52,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P4.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P4.bib)
 
-### Journal Articles
+### 📖 Journal Articles
 
 - **Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality**  
   ***Hao Li***, Gopi Krishnan Rajbahadur, Cor-Paul Bezemer  
@@ -61,25 +74,25 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
   *IEEE Transactions on Software Engineering (TSE), 2023*  
   [[PDF]](https://leo-lihao.github.io/files/J1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J1.bib)
 
-### Conference Papers
+### 🏛️ Conference Papers
 
 - **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
   ***Hao Li***, Cor-Paul Bezemer, Ahmed E. Hassan  
   *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*  
   [[PDF]](https://leo-lihao.github.io/files/C1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/C1.bib)
 
-## Services
+## 🤝 Academic Services
 
-### Program Committee Member
+### 🏆 Program Committee Member
 - The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Artifact Evaluation Track, 2024.
 
-### Talks
+### 🎤 Invited Talks
 - [Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/54/Software-Engineering-and-Foundation-Models-Insights-from-Industry-Blogs-Using-a-Jury), Software Engineering in Practice (SEIP), Presented at the 47th International Conference on Software Engineering (ICSE 2025).
 - [Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/76/Bridging-the-Language-Gap-An-Empirical-Study-of-Bindings-for-Open-Source-Machine-Lea), Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025).
 - [Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/1/Studying-the-Impact-of-TensorFlow-and-PyTorch-Bindings-on-Machine-Learning-Software-Q), Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025).
 - AIware Leadership Bootcamp 2024 [[Slides]](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [[Video]](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [[Link]](https://www.aiwarebootcamp.io/)
 
-### Journal Reviewer
+### 📝 Journal Reviewer
 
 - IEEE Transactions on Software Engineering (TSE).
 - Springer Empirical Software Engineering (EMSE).
