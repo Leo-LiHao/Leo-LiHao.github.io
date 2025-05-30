@@ -140,11 +140,18 @@ a {
   border-radius: 4px;
   border-left: 2px solid #4a90e2;
   transition: all 0.2s ease;
+  list-style: none;
 
   &:hover {
     background: #f5f6f7;
     border-left-color: #2c5aa0;
   }
+}
+
+/* Remove bullet points from all lists in content */
+.page__content ul {
+  list-style: none;
+  padding-left: 0;
 }
 
 /* Style publication links within list items */
