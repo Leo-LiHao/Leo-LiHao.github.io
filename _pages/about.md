@@ -9,9 +9,9 @@ redirect_from:
 
 I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). Before joining Queen’s University, I received my Ph.D. from the University of Alberta in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en). My research focuses on:
 
-- Software Package Ecosystems
-- Software Engineering for Artificial Intelligence (SE4AI)
-- Artificial Intelligence for Software Engineering (AI4SE)
+- **Software Package Ecosystems** - Understanding dependency networks and ecosystem health
+- **Software Engineering for Artificial Intelligence (SE4AI)** - Applying SE practices to AI/ML systems  
+- **Artificial Intelligence for Software Engineering (AI4SE)** - Leveraging AI to improve software development
 
 ## Publications
 

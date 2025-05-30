@@ -1,0 +1,310 @@
+/* ==========================================================================
+   VISUAL ENHANCEMENTS
+   Modern styling improvements for academic website
+   ========================================================================== */
+
+/* Enhanced Typography */
+body {
+  line-height: 1.7;
+  letter-spacing: 0.2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin: 2.5em 0 1em;
+  
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+.page__title {
+  font-size: $type-size-2;
+  font-weight: 700;
+  margin-bottom: 1.5em;
+  color: var(--global-text-color);
+  border-bottom: 3px solid var(--primary-color, #007acc);
+  padding-bottom: 0.5em;
+  display: inline-block;
+}
+
+/* Enhanced Content Layout */
+.page__content {
+  max-width: none;
+  
+  h2 {
+    font-size: $type-size-3;
+    margin-top: 3em;
+    margin-bottom: 1.5em;
+    padding-left: 0.5em;
+    border-left: 4px solid var(--accent-color, #007acc);
+    border-bottom: none;
+    background: linear-gradient(90deg, rgba(0, 122, 204, 0.05), transparent);
+    padding: 0.5em 0 0.5em 1em;
+    border-radius: 0 4px 4px 0;
+  }
+  
+  h3 {
+    font-size: $type-size-4;
+    margin-top: 2.5em;
+    margin-bottom: 1em;
+    color: var(--heading-color, #333);
+  }
+  
+  p {
+    margin-bottom: 1.5em;
+    text-align: justify;
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  
+  /* Enhanced Lists */
+  ul, ol {
+    margin: 1.5em 0;
+    padding-left: 2em;
+    
+    li {
+      margin-bottom: 0.8em;
+      line-height: 1.6;
+      
+      &::marker {
+        color: var(--accent-color, #007acc);
+      }
+    }
+  }
+  
+  /* Publication List Styling */
+  ul li {
+    background: var(--card-bg, #fafafa);
+    padding: 1.2em;
+    margin: 1.5em 0;
+    border-radius: 8px;
+    border: 1px solid var(--card-border, #e8e8e8);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+    
+    &:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      transform: translateY(-1px);
+      border-color: var(--accent-color, #007acc);
+    }
+  }
+}
+
+/* Enhanced Links */
+a {
+  color: var(--link-color, #007acc);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: var(--link-hover-color, #005fa3);
+    border-bottom-color: var(--link-hover-color, #005fa3);
+  }
+  
+  /* Publication links styling */
+  &[href*=".pdf"] {
+    background: #e74c3c;
+    color: white;
+    padding: 0.3em 0.6em;
+    border-radius: 4px;
+    margin: 0 0.3em;
+    font-size: 0.85em;
+    font-weight: 500;
+    border-bottom: none;
+    
+    &:hover {
+      background: #c0392b;
+      color: white;
+    }
+  }
+  
+  &[href*=".bib"] {
+    background: #27ae60;
+    color: white;
+    padding: 0.3em 0.6em;
+    border-radius: 4px;
+    margin: 0 0.3em;
+    font-size: 0.85em;
+    font-weight: 500;
+    border-bottom: none;
+    
+    &:hover {
+      background: #1e8449;
+      color: white;
+    }
+  }
+}
+
+/* Enhanced Author Profile */
+.author__avatar img {
+  border: 3px solid var(--accent-color, #007acc);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  }
+}
+
+.author__bio {
+  font-size: $type-size-5;
+  line-height: 1.6;
+  margin-bottom: 1.5em;
+  color: var(--bio-color, #666);
+}
+
+.author__urls a {
+  padding: 0.5em 0;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: var(--hover-bg, rgba(0, 122, 204, 0.1));
+    padding-left: 0.5em;
+  }
+}
+
+/* Cards and Sections */
+.research-highlight {
+  background: linear-gradient(135deg, var(--card-bg, #f8f9fa), var(--card-bg-alt, #ffffff));
+  border: 1px solid var(--card-border, #e9ecef);
+  border-radius: 12px;
+  padding: 2em;
+  margin: 2em 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+  position: relative;
+  overflow: hidden;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(to bottom, var(--accent-color, #007acc), var(--accent-secondary, #00d4aa));
+  }
+}
+
+/* Section Dividers */
+.page__content > h2:not(:first-child) {
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: -1.5em;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(to right, transparent, var(--divider-color, #ddd), transparent);
+  }
+}
+
+/* Responsive Images */
+img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  }
+}
+
+/* Enhanced Tables */
+table {
+  margin: 2em 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  
+  th {
+    background: var(--table-header-bg, #007acc);
+    color: white;
+    font-weight: 600;
+    padding: 1em;
+    text-align: left;
+  }
+  
+  td {
+    padding: 1em;
+    border-bottom: 1px solid var(--table-border, #e9ecef);
+    
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+  
+  tr:nth-child(even) td {
+    background: var(--table-stripe, #f8f9fa);
+  }
+  
+  tr:hover td {
+    background: var(--table-hover, rgba(0, 122, 204, 0.05));
+  }
+}
+
+/* Focus States for Accessibility */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus {
+  outline: 2px solid var(--focus-color, #007acc);
+  outline-offset: 2px;
+}
+
+/* Animation for Page Load */
+.page__content {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Mobile Optimizations */
+@media (max-width: 768px) {
+  .page__content ul li {
+    padding: 1em;
+    margin: 1em 0;
+  }
+  
+  .page__title {
+    font-size: $type-size-3;
+  }
+  
+  .research-highlight {
+    padding: 1.5em;
+    margin: 1.5em 0;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .research-highlight {
+    border: 1px solid #ccc;
+    box-shadow: none;
+    background: white;
+  }
+  
+  a[href*=".pdf"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+}
