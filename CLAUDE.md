@@ -6,31 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is Hao Li's academic personal website built with Jekyll using the "Academic Pages" template. It's a static site generator for creating academic portfolio websites with support for publications, talks, teaching, and CV management.
 
-## Development Commands
-
-### Local Development
-```bash
-# Install Ruby dependencies
-bundle install
-
-# Serve site locally with live reload
-jekyll serve -l -H localhost
-# Alternative with bundle exec
-bundle exec jekyll serve -l -H localhost
-
-# Build JavaScript assets
-npm run build:js
-npm run watch:js  # Watch for changes
-```
-
-### Docker Development
-```bash
-# Run site in Docker container
-docker compose up
-# Site will be available at localhost:4000
-```
-
-### Content Generation
+## Content Generation
 ```bash
 # Convert markdown CV to JSON format
 ./scripts/update_cv_json.sh
@@ -90,4 +66,4 @@ python3 talks.py         # Generate from talks.tsv
 - `markdown_generator/` - Bulk content generation tools
 
 ## Deployment
-Site auto-deploys to GitHub Pages from master branch. No manual build process required for production.
+This site is automatically built and deployed by GitHub Pages CI when changes are pushed to the master branch. No local build or deployment process is required.
