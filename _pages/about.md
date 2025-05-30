@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). Before joining Queen’s University, I received my Ph.D. from the University of Alberta in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en). My research focuses on:
+I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). Before joining Queen’s University, I received my Ph.D. from the University of Alberta in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en).
 
-## Research Focus
+## Research Interests
 
 <div class="research-areas">
   <div class="research-item">
@@ -84,12 +84,12 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 ## Academic Services
 
 ### Program Committee Member
-- The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Artifact Evaluation Track, 2024.
+- The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Artifact Evaluation Track, 2024
 
 ### Invited Talks
-- [Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/54/Software-Engineering-and-Foundation-Models-Insights-from-Industry-Blogs-Using-a-Jury) Software Engineering in Practice (SEIP), Presented at the 47th International Conference on Software Engineering (ICSE 2025).
+- [Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/54/Software-Engineering-and-Foundation-Models-Insights-from-Industry-Blogs-Using-a-Jury) Software Engineering in Practice (SEIP), Presented at the 47th International Conference on Software Engineering (ICSE 2025)
 - [Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/76/Bridging-the-Language-Gap-An-Empirical-Study-of-Bindings-for-Open-Source-Machine-Lea) Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025).
-- [Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/1/Studying-the-Impact-of-TensorFlow-and-PyTorch-Bindings-on-Machine-Learning-Software-Q) Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025).
+- [Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/1/Studying-the-Impact-of-TensorFlow-and-PyTorch-Bindings-on-Machine-Learning-Software-Q) Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025)
 - AIware Leadership Bootcamp 2024 [[Slides]](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [[Video]](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [[Link]](https://www.aiwarebootcamp.io/)
 
 ### Journal Reviewer
