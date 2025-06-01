@@ -162,87 +162,61 @@ a:hover {
   }
 }
 
-/* Dark theme support */
 /* Dark theme visibility improvements */
 @media (prefers-color-scheme: dark) {
+  
+  /* General page background for dark mode */
   body, .page__content {
-    background: #121212; /* deep dark background */
-    color: #ecf0f1; /* general text color */
-  }
-
-  /* General Text Improvements */
-  .page__content p,
-  .page__content ul,
-  .page__content ol,
-  .page__content li {
+    background: #121212 !important;
     color: #ecf0f1;
   }
 
-  /* Links improvements */
-  a {
-    color: #74b9ff; /* light blue for sufficient contrast */
-  }
-
-  a:hover {
-    color: #a0d2ff; /* lighter blue on hover for readability */
-  }
-
-  /* Enhanced visibility for heading elements */
-  .page__content h2, 
-  .page__content h3, 
-  .page__content h4 {
-    color: #ffffff;
-  }
-
-  /* Research Items styling */
-  .research-item {
-    background: #2c3e50;
-    border-color: #34495e;
-    color: #ecf0f1;
-  }
-
-  .research-item:hover {
-    background: #34495e;
-    border-color: #74b9ff;
-  }
-
-  .research-item i {
-    color: #74b9ff;
-  }
-
-  /* Publications section improvements */
-  .publications-section h3 {
-    border-left-color: #74b9ff;
-  }
-
-  /* List items visibility */
+  /* Fix the cards' background explicitly */
   .page__content li {
-    background: rgba(255, 255, 255, 0.05);
-    border-left-color: #74b9ff;
+    background: #1e2125 !important;
+    border-left-color: #74b9ff !important; /* lighter highlight color */
+    color: #ecf0f1 !important;
   }
 
   .page__content li:hover {
-    background: rgba(255, 255, 255, 0.1);
-    border-left-color: #a0d2ff;
+    background: #272c31 !important; /* slightly lighter on hover */
+    border-left-color: #a0d2ff !important;
   }
 
-  /* Publication links enhanced visibility */
-  .publication-links a,
+  /* Publications and research-item sections */
+  .research-item {
+    background: #2c3e50 !important;
+    border-color: #34495e !important;
+    color: #ecf0f1 !important;
+  }
+
+  .research-item:hover {
+    background: #34495e !important;
+    border-color: #74b9ff !important;
+  }
+
+  /* Adjust Publication and Academic Services sections explicitly */
+  .publications-section,
+  .academic-services-section,
+  .other-card-sections /*<- replace with actual selectors/classes if different*/ {
+    background: #1e2125 !important;
+    color: #ecf0f1 !important;
+    border-color: #333 !important;
+  }
+
+  /* Links inside these cards */
+  .publications-section a,
+  .academic-services-section a,
   .page__content li a {
-    background: #74b9ff;
-    color: #121212;
+    background: #74b9ff !important;
+    color: #121212 !important; /* dark text for readability */
   }
 
-  .publication-links a:hover,
+  .publications-section a:hover,
+  .academic-services-section a:hover,
   .page__content li a:hover {
-    background: #a0d2ff;
-    color: #121212;
-  }
-
-  /* Masthead (header/navigation) improvements */
-  .masthead {
-    background: #1e1e1e;
-    border-bottom: 1px solid #333;
+    background: #a0d2ff !important;
+    color: #121212 !important;
   }
 }
 
