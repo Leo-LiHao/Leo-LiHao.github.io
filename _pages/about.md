@@ -98,5 +98,6 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 - Springer Empirical Software Engineering (EMSE)
 - Nature Scientific Data
 - Springer Software Quality Journal
+- IEEE Software
 - Elsevier Patterns
 - PeerJ Computer Science
