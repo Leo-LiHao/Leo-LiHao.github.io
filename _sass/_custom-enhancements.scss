@@ -89,37 +89,6 @@ a:hover {
   text-decoration: none;
 }
 
-// /* Enhanced section headers */
-// .page__content h2 {
-//   color: #2c3e50;
-//   border-bottom: 1px solid #e9ecef;
-//   padding-bottom: 0.5rem;
-//   margin-top: 2rem;
-//   position: relative;
-//   display: flex;
-//   align-items: center;
-//   gap: 0.5rem;
-//   font-weight: 600;
-
-//   &:before {
-//     content: "";
-//     position: absolute;
-//     bottom: -1px;
-//     left: 0;
-//     width: 40px;
-//     height: 2px;
-//     background: #4a90e2;
-//   }
-// }
-
-// .page__content h3 {
-//   display: flex;
-//   align-items: center;
-//   gap: 0.5rem;
-//   color: #34495e;
-//   margin-top: 2rem;
-// }
-
 /* Card-like styling for content sections */
 .page__content {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -194,32 +163,86 @@ a:hover {
 }
 
 /* Dark theme support */
+/* Dark theme visibility improvements */
 @media (prefers-color-scheme: dark) {
-  .page__content h2 {
+  body, .page__content {
+    background: #121212; /* deep dark background */
+    color: #ecf0f1; /* general text color */
+  }
+
+  /* General Text Improvements */
+  .page__content p,
+  .page__content ul,
+  .page__content ol,
+  .page__content li {
     color: #ecf0f1;
   }
 
-  .page__content h3 {
-    color: #bdc3c7;
+  /* Links improvements */
+  a {
+    color: #74b9ff; /* light blue for sufficient contrast */
   }
 
+  a:hover {
+    color: #a0d2ff; /* lighter blue on hover for readability */
+  }
+
+  /* Enhanced visibility for heading elements */
+  .page__content h2, 
+  .page__content h3, 
+  .page__content h4 {
+    color: #ffffff;
+  }
+
+  /* Research Items styling */
   .research-item {
     background: #2c3e50;
-    border: 1px solid #34495e;
+    border-color: #34495e;
     color: #ecf0f1;
+  }
+
+  .research-item:hover {
+    background: #34495e;
+    border-color: #74b9ff;
   }
 
   .research-item i {
     color: #74b9ff;
   }
 
+  /* Publications section improvements */
+  .publications-section h3 {
+    border-left-color: #74b9ff;
+  }
+
+  /* List items visibility */
   .page__content li {
-    background: rgba(255, 255, 255, 0.03);
+    background: rgba(255, 255, 255, 0.05);
     border-left-color: #74b9ff;
   }
 
   .page__content li:hover {
-    background: rgba(255, 255, 255, 0.06);
+    background: rgba(255, 255, 255, 0.1);
+    border-left-color: #a0d2ff;
+  }
+
+  /* Publication links enhanced visibility */
+  .publication-links a,
+  .page__content li a {
+    background: #74b9ff;
+    color: #121212;
+  }
+
+  .publication-links a:hover,
+  .page__content li a:hover {
+    background: #a0d2ff;
+    color: #121212;
+  }
+
+  /* Masthead (header/navigation) improvements */
+  .masthead {
+    background: #1e1e1e;
+    border-bottom: 1px solid #333;
   }
 }
 
@@ -227,3 +250,34 @@ a:hover {
 .masthead {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
+
+// /* Enhanced section headers */
+// .page__content h2 {
+//   color: #2c3e50;
+//   border-bottom: 1px solid #e9ecef;
+//   padding-bottom: 0.5rem;
+//   margin-top: 2rem;
+//   position: relative;
+//   display: flex;
+//   align-items: center;
+//   gap: 0.5rem;
+//   font-weight: 600;
+
+//   &:before {
+//     content: "";
+//     position: absolute;
+//     bottom: -1px;
+//     left: 0;
+//     width: 40px;
+//     height: 2px;
+//     background: #4a90e2;
+//   }
+// }
+
+// .page__content h3 {
+//   display: flex;
+//   align-items: center;
+//   gap: 0.5rem;
+//   color: #34495e;
+//   margin-top: 2rem;
+// }
