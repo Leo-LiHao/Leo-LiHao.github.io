@@ -1,5 +1,13 @@
 /* Custom styling for enhanced visual appeal */
 
+/* General Body & Typography */
+body, .page__content {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.7;
+  color: #2c3e50;
+  background-color: #ffffff;
+}
+
 /* Research areas styling */
 .research-areas {
   display: grid;
@@ -90,11 +98,6 @@ a:hover {
 }
 
 /* Card-like styling for content sections */
-.page__content {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  line-height: 1.7;
-}
-
 .page__content p {
   margin-bottom: 1.2rem;
 }
@@ -162,28 +165,27 @@ a:hover {
   }
 }
 
-/* Dark theme visibility improvements */
-@media (prefers-color-scheme: dark) {
-  
-  /* General page background for dark mode */
-  body, .page__content {
-    background: #121212 !important;
-    color: #ecf0f1;
-  }
+/* Improved navigation */
+.masthead {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
 
-  /* Fix the cards' background explicitly */
-  .page__content li {
-    background: #1e2125 !important;
-    border-left-color: #74b9ff !important; /* lighter highlight color */
+/* -------- DARK THEME FIXES -------- */
+/* Dark theme overrides to fix readability issues */
+@media (prefers-color-scheme: dark) {
+  body, .page__content {
+    background-color: #121212 !important;
     color: #ecf0f1 !important;
   }
 
-  .page__content li:hover {
-    background: #272c31 !important; /* slightly lighter on hover */
-    border-left-color: #a0d2ff !important;
+  a {
+    color: #74b9ff !important;
   }
 
-  /* Publications and research-item sections */
+  a:hover {
+    color: #a0d2ff !important;
+  }
+
   .research-item {
     background: #2c3e50 !important;
     border-color: #34495e !important;
@@ -195,34 +197,52 @@ a:hover {
     border-color: #74b9ff !important;
   }
 
-  /* Adjust Publication and Academic Services sections explicitly */
-  .publications-section,
-  .academic-services-section,
-  .other-card-sections /*<- replace with actual selectors/classes if different*/ {
+  .publications-section h3 {
+    border-left-color: #74b9ff !important;
+    color: #ffffff !important;
+  }
+
+  .page__content li {
     background: #1e2125 !important;
+    border-left-color: #74b9ff !important;
     color: #ecf0f1 !important;
-    border-color: #333 !important;
   }
 
-  /* Links inside these cards */
-  .publications-section a,
-  .academic-services-section a,
-  .page__content li a {
+  .page__content li:hover {
+    background: #272c31 !important;
+    border-left-color: #a0d2ff !important;
+  }
+
+  .publication-links a, .page__content li a {
     background: #74b9ff !important;
-    color: #121212 !important; /* dark text for readability */
+    color: #121212 !important;
   }
 
-  .publications-section a:hover,
-  .academic-services-section a:hover,
-  .page__content li a:hover {
+  .publication-links a:hover, .page__content li a:hover {
     background: #a0d2ff !important;
     color: #121212 !important;
   }
-}
 
-/* Improved navigation */
-.masthead {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  /* Masthead dark mode */
+  .masthead {
+    background: #1e1e1e !important;
+    border-bottom: 1px solid #333 !important;
+  }
+
+  /* Footer or other complementary parts if applicable */
+  .footer, .sidebar {
+    background: #1e1e1e !important;
+    color: #bdc3c7 !important;
+  }
+
+  /* Images or avatars */
+  .author__avatar img {
+    border-color: #34495e !important;
+  }
+
+  .author__avatar img:hover {
+    border-color: #74b9ff !important;
+  }
 }
 
 // /* Enhanced section headers */

@@ -13,16 +13,16 @@ I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (S
 
 <div class="research-areas">
   <div class="research-item">
-    <i class="fas fa-cube"></i>
-    <strong>Software Package Ecosystems</strong>
-  </div>
-  <div class="research-item">
     <i class="fas fa-robot"></i>
     <strong>Software Engineering for Artificial Intelligence (SE4AI)</strong>
   </div>
   <div class="research-item">
     <i class="fas fa-brain"></i>
     <strong>Artificial Intelligence for Software Engineering (AI4SE)</strong>
+  </div>
+  <div class="research-item">
+    <i class="fas fa-cube"></i>
+    <strong>Software Package Ecosystems</strong>
   </div>
 </div>
 
