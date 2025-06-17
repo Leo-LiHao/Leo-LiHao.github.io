@@ -52,6 +52,11 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P4.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P4.bib)
 
+- **Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**  
+  Mohammed Mehedi Hasan, ***Hao Li***, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P5.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P5.bib)
+
 ### Journal Articles
 
 - **Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality**  
