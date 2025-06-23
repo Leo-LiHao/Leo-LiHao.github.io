@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hao Li's Website"
+title                    : "Hao Li - Postdoctoral Researcher"
 title_separator          : "-"
 name                     : &name "Hao Li"
-description              : &description ""
+description              : &description "Postdoctoral Researcher focusing on Software Engineering and AI at Queen's University"
 url                      : https://leo-lihao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Leo-LiHao/Leo-LiHao.github.io"

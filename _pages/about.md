@@ -32,30 +32,30 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ### Preprints
 
-- **Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations**  
-  Pouya Fathollahzadeh, Mariam El Mezouar, ***Hao Li***, Ying Zou, Ahmed E. Hassan  
+- **Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**  
+  Mohammed Mehedi Hasan, ***Hao Li***, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan  
   *Under Review*  
-  [[PDF]](https://leo-lihao.github.io/files/P1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P1.bib)
-
-- **SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms**  
-  Lin Geng, ***Hao Li***, Sidney Givigi, Bram Adams  
-  *Under Review*  
-  [[PDF]](https://leo-lihao.github.io/files/P2.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P2.bib)
-
-- **A Systematic Literature Review of Software Engineering Research on Jupyter Notebook**  
-  Md Saeed Siddik, ***Hao Li***, Cor-Paul Bezemer  
-  *Under Review*  
-  [[PDF]](https://leo-lihao.github.io/files/P3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P3.bib)
+  [[PDF]](https://leo-lihao.github.io/files/P5.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P5.bib)
 
 - **Can We Recycle Our Old Models? An Empirical Evaluation of Model Selection Mechanisms for AIOps Solutions**  
   Yingzhe Lyu, ***Hao Li***, Heng Li, Ahmed E. Hassan  
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P4.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P4.bib)
 
-- **Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**  
-  Mohammed Mehedi Hasan, ***Hao Li***, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan  
+- **A Systematic Literature Review of Software Engineering Research on Jupyter Notebook**  
+  Md Saeed Siddik, ***Hao Li***, Cor-Paul Bezemer  
   *Under Review*  
-  [[PDF]](https://leo-lihao.github.io/files/P5.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P5.bib)
+  [[PDF]](https://leo-lihao.github.io/files/P3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P3.bib)
+
+- **SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms**  
+  Lin Geng, ***Hao Li***, Sidney Givigi, Bram Adams  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P2.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P2.bib)
+
+- **Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations**  
+  Pouya Fathollahzadeh, Mariam El Mezouar, ***Hao Li***, Ying Zou, Ahmed E. Hassan  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P1.bib)
 
 ### Journal Articles
 
@@ -89,13 +89,16 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 ## Academic Services
 
 ### Program Committee Member
-- The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Artifact Evaluation Track, 2024
+- [Short Papers and Posters](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track) track of the [33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)](https://conf.researchr.org/home/saner-2026), March 17--20 , 2026 (Limassol, Cyprus)
+- [Poster](https://conf.researchr.org/track/cascon-2025/posters-track) track of the [35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)](https://conf.researchr.org/home/cascon-2025), November 10--13, 2025 (Toronto, ON, Canada)
+- [Artifact Evaluation](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track) track of the [39th IEEE/ACM International Conference on Automated Software Engineering (ASE)](https://conf.researchr.org/home/ase-2024), October 27--November 1, 2024 (Sacramento, California, United States)
 
 ### Invited Talks
-- Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Software Engineering in Practice (SEIP), Presented at the 47th International Conference on Software Engineering (ICSE 2025) [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/54/Software-Engineering-and-Foundation-Models-Insights-from-Industry-Blogs-Using-a-Jury)
-- Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems, Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025) [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/76/Bridging-the-Language-Gap-An-Empirical-Study-of-Bindings-for-Open-Source-Machine-Lea)
-- Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality, Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025) [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/1/Studying-the-Impact-of-TensorFlow-and-PyTorch-Bindings-on-Machine-Learning-Software-Q)
-- AIware Leadership Bootcamp 2024 [[Slides]](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [[Video]](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [[Link]](https://www.aiwarebootcamp.io/)
+- Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Invited talk at the Nara Institute of Science and Technology (NAIST), June 4th, 2025 (Nara, Japan)
+- Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality, Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025), May 2, 2025 (Ottawa, ON, Canada). [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/1/Studying-the-Impact-of-TensorFlow-and-PyTorch-Bindings-on-Machine-Learning-Software-Q)
+- Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Software Engineering in Practice (SEIP), Presented at the 47th International Conference on Software Engineering (ICSE 2025), May 2, 2025 (Ottawa, ON, Canada). [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/54/Software-Engineering-and-Foundation-Models-Insights-from-Industry-Blogs-Using-a-Jury)
+- Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems, Journal-First, Presented at the 47th International Conference on Software Engineering (ICSE 2025), Apr 30, 2025 (Ottawa, ON, Canada).  [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/76/Bridging-the-Language-Gap-An-Empirical-Study-of-Bindings-for-Open-Source-Machine-Lea)
+- AIware Leadership Bootcamp 2024, November 3, 2024 (Toronto, ON, Canada). [[Slides]](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [[Video]](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [[Link]](https://www.aiwarebootcamp.io/)
 
 ### Journal Reviewer
 
