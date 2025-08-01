@@ -32,6 +32,16 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ### Preprints
 
+- **The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering**  
+  ***Hao Li***, Haoxiang Zhang, Ahmed E. Hassan  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P7.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P7.bib)
+
+- **On the Effect of Token Merging on Pre-trained Models for Code**  
+  Mootez Saad, ***Hao Li***, Tushar Sharma, Ahmed E. Hassan  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P6.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P6.bib)
+
 - **Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**  
   Mohammed Mehedi Hasan, ***Hao Li***, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan  
   *Under Review*  
