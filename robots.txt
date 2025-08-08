@@ -22,4 +22,5 @@ Disallow: /_sass/
 Disallow: /_includes/
 Disallow: /_layouts/
 Disallow: /_data/
+Disallow: /_drafts/
 Disallow: /scripts/
