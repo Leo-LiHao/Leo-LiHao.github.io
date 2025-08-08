@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
+description: "Complete sitemap of Hao Li's academic website including all pages, publications, talks, and resources for easy navigation and search engine indexing."
 permalink: /sitemap/
 author_profile: true
 ---

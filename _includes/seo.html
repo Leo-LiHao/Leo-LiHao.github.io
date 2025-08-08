@@ -119,7 +119,39 @@
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "sameAs" : {{ site.social.links | jsonify }},
+      {% if site.social.type == "Person" %}
+      "jobTitle": "Postdoctoral Researcher",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Queen's University",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kingston",
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada"
+        }
+      },
+      "alumniOf": "University of Alberta",
+      "knows": [
+        {
+          "@type": "Person",
+          "name": "Ahmed E. Hassan"
+        },
+        {
+          "@type": "Person", 
+          "name": "Bram Adams"
+        },
+        {
+          "@type": "Person",
+          "name": "Cor-Paul Bezemer"
+        }
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Queen's University"
+      }
+      {% endif %}
     }
   </script>
 {% endif %}
@@ -135,5 +167,21 @@
 {% endif %}
 {% if site.yandex_site_verification %}
   <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
+{% endif %}
+
+<!-- Additional SEO meta tags -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+{% if page.date %}
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+<meta property="article:author" content="{{ site.name }}">
+{% endif %}
+{% if page.category %}
+<meta property="article:section" content="{{ page.category }}">
+{% endif %}
+{% if page.tags %}
+{% for tag in page.tags %}
+<meta property="article:tag" content="{{ tag }}">
+{% endfor %}
 {% endif %}
 <!-- end SEO -->
