@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+description: "Curriculum Vitae of Hao Li - Postdoctoral Researcher, education, research experience, publications, and academic services in Software Engineering and AI."
 permalink: /cv/
 author_profile: true
 redirect_from:

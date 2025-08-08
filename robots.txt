@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://leo-lihao.github.io/sitemap.xml
+
+# Allow search engines to crawl all public content
+Allow: /files/
+Allow: /images/
+Allow: /_pages/
+Allow: /publications/
+Allow: /talks/
+Allow: /teaching/
+Allow: /portfolio/
+
+# Disallow crawling of development and system files
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /vendor/
+Disallow: /node_modules/
+Disallow: /_sass/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_data/
+Disallow: /_drafts/
+Disallow: /scripts/

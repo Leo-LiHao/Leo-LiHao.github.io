@@ -3,6 +3,7 @@ title: "Foundation Models and Software Engineering: Insights from Industry Blogs
 collection: talks
 type: "Talk"
 permalink: /talks/aiware_bootcamp_2024
+description: "Invited talk on Foundation Models and Software Engineering at AIware Leadership Bootcamp 2024, exploring integration of FMs in SE practices through industry blog analysis."
 venue: "AIware Leadership Bootcamp 2024"
 date: 2024-11-03
 location: "Toronto, ON, Canada"

@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+description: "Hao Li - Postdoctoral Researcher at Queen's University specializing in Software Engineering and AI. Research in SE4AI, AI4SE, and Software Package Ecosystems."
 author_profile: true
 redirect_from: 
   - /about/
