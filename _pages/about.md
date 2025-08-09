@@ -101,6 +101,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ### Program Committee Member
 - **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track, March 17--20 , 2026 (Limassol, Cyprus) [[Link]](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
+- **2nd ACM International Conference on AI-powered Software (AIware 2025)**, Benchmark & Dataset Track, November 19--20, 2025 (Seoul, South Korea) [[Link]](https://2025.aiwareconf.org/track/aiware-2025-benchmark---dataset-track)
 - **35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)**, Poster Track, November 10--13, 2025 (Toronto, ON, Canada) [[Link]](https://conf.researchr.org/track/cascon-2025/posters-track)
 - **39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)**, Artifact Evaluation Track, October 27--November 1, 2024 (Sacramento, California, United States) [[Link]](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)
 
