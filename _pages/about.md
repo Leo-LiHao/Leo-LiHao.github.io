@@ -33,6 +33,11 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ### Preprints
 
+- **Agentic Software Engineering: Foundational Pillars and a Research Roadmap**  
+  Ahmed E. Hassan, ***Hao Li***, Dayi Lin, Bram Adams, Tse-Hsun Chen, Yutaro Kashiwa, Dong Qiu   
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P8.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P8.bib)
+
 - **The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering**  
   ***Hao Li***, Haoxiang Zhang, Ahmed E. Hassan  
   *Under Review*  
@@ -117,6 +122,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 - IEEE Transactions on Software Engineering (TSE)
 - ACM Transactions on Software Engineering and Methodology (TOSEM)
 - Springer Empirical Software Engineering (EMSE)
+- Elsevier Journal of Systems and Software (JSS)
 - Nature Scientific Data
 - Springer Software Quality Journal
 - IEEE Software
