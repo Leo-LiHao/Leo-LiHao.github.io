@@ -33,6 +33,21 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ### Preprints
 
+- **Understanding Prompt Management in GitHub Repositories: A Call for Best Practices**  
+  xx   
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P11.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P11.bib)
+
+- **From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem**  
+  James Jewitt, ***Hao Li***, Bram Adams, Gopi Krishnan Rajbahadur, Ahmed E. Hassan   
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P10.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P10.bib)
+
+- **On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub**  
+  Miku Watanabe, ***Hao Li***, Yutaro Kashiwa, Brittany Reid, Hajimu Iida, Ahmed E. Hassan   
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P9.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P9.bib)
+
 - **Agentic Software Engineering: Foundational Pillars and a Research Roadmap**  
   Ahmed E. Hassan, ***Hao Li***, Dayi Lin, Bram Adams, Tse-Hsun Chen, Yutaro Kashiwa, Dong Qiu   
   *Under Review*  
