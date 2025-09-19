@@ -34,7 +34,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 ### Preprints
 
 - **Understanding Prompt Management in GitHub Repositories: A Call for Best Practices**  
-  xx   
+  ***Hao Li***, Hicham Masri, Filipe R. Cogo, Abdul Ali Bangash, Bram Adams, Ahmed E. Hassan   
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P11.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P11.bib)
 
