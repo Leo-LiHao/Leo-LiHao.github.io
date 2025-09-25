@@ -33,113 +33,119 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ### Preprints
 
-- **Understanding Prompt Management in GitHub Repositories: A Call for Best Practices**  
+1. **An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications**  
+  Mohammed Mehedi Hasan, ***Hao Li***, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan   
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P12.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P12.bib)
+
+1. **Understanding Prompt Management in GitHub Repositories: A Call for Best Practices**  
   ***Hao Li***, Hicham Masri, Filipe R. Cogo, Abdul Ali Bangash, Bram Adams, Ahmed E. Hassan   
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P11.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P11.bib)
 
-- **From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem**  
+1. **From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem**  
   James Jewitt, ***Hao Li***, Bram Adams, Gopi Krishnan Rajbahadur, Ahmed E. Hassan   
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P10.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P10.bib)
 
-- **On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub**  
+1. **On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub**  
   Miku Watanabe, ***Hao Li***, Yutaro Kashiwa, Brittany Reid, Hajimu Iida, Ahmed E. Hassan   
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P9.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P9.bib)
 
-- **Agentic Software Engineering: Foundational Pillars and a Research Roadmap**  
+1. **Agentic Software Engineering: Foundational Pillars and a Research Roadmap**  
   Ahmed E. Hassan, ***Hao Li***, Dayi Lin, Bram Adams, Tse-Hsun Chen, Yutaro Kashiwa, Dong Qiu   
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P8.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P8.bib)
 
-- **The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering**  
+1. **The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering**  
   ***Hao Li***, Haoxiang Zhang, Ahmed E. Hassan  
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P7.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P7.bib)
 
-- **On the Effect of Token Merging on Pre-trained Models for Code**  
+1. **On the Effect of Token Merging on Pre-trained Models for Code**  
   Mootez Saad, ***Hao Li***, Tushar Sharma, Ahmed E. Hassan  
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P6.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P6.bib)
 
-- **Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**  
+1. **Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**  
   Mohammed Mehedi Hasan, ***Hao Li***, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan  
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P5.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P5.bib)
 
-- **Can We Recycle Our Old Models? An Empirical Evaluation of Model Selection Mechanisms for AIOps Solutions**  
+1. **Can We Recycle Our Old Models? An Empirical Evaluation of Model Selection Mechanisms for AIOps Solutions**  
   Yingzhe Lyu, ***Hao Li***, Heng Li, Ahmed E. Hassan  
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P4.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P4.bib)
 
-- **A Systematic Literature Review of Software Engineering Research on Jupyter Notebook**  
+1. **A Systematic Literature Review of Software Engineering Research on Jupyter Notebook**  
   Md Saeed Siddik, ***Hao Li***, Cor-Paul Bezemer  
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P3.bib)
 
-- **SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms**  
+1. **SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms**  
   Lin Geng, ***Hao Li***, Sidney Givigi, Bram Adams  
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P2.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P2.bib)
 
-- **Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations**  
+1. **Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations**  
   Pouya Fathollahzadeh, Mariam El Mezouar, ***Hao Li***, Ying Zou, Ahmed E. Hassan  
   *Under Review*  
   [[PDF]](https://leo-lihao.github.io/files/P1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P1.bib)
 
 ### Journal Articles
 
-- **Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality**  
+1. **Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality**  
   ***Hao Li***, Gopi Krishnan Rajbahadur, Cor-Paul Bezemer  
   *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*  
   [[PDF]](https://leo-lihao.github.io/files/J3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J3.bib)
 
-- **Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems**  
+1. **Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems**  
   ***Hao Li***, Cor-Paul Bezemer  
   *Empirical Software Engineering (EMSE), 2024*  
   [[PDF]](https://leo-lihao.github.io/files/J4.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J4.bib)
 
-- **Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**  
+1. **Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**  
   ***Hao Li***, Gopi Krishnan Rajbahadur, Dayi Lin, Cor-Paul Bezemer, Zhen Ming (Jack) Jiang  
   *IEEE Access, 2024*  
   [[PDF]](https://leo-lihao.github.io/files/J2.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J2.bib)
 
-- **An Empirical Study of Yanked Releases in the Rust Package Registry**  
+1. **An Empirical Study of Yanked Releases in the Rust Package Registry**  
   ***Hao Li***, Filipe R. Cogo, Cor-Paul Bezemer  
   *IEEE Transactions on Software Engineering (TSE), 2023*  
   [[PDF]](https://leo-lihao.github.io/files/J1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J1.bib)
 
 ### Conference Papers
 
-- **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
+1. **Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**  
   ***Hao Li***, Cor-Paul Bezemer, Ahmed E. Hassan  
   *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*  
   [[PDF]](https://leo-lihao.github.io/files/C1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/C1.bib)
 
 ## Academic Services
 
-### Program Committee Member
-- **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track, March 17--20 , 2026 (Limassol, Cyprus) [[Link]](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
-- **2nd ACM International Conference on AI-powered Software (AIware 2025)**, Benchmark & Dataset Track, November 19--20, 2025 (Seoul, South Korea) [[Link]](https://2025.aiwareconf.org/track/aiware-2025-benchmark---dataset-track)
-- **35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)**, Poster Track, November 10--13, 2025 (Toronto, ON, Canada) [[Link]](https://conf.researchr.org/track/cascon-2025/posters-track)
-- **39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)**, Artifact Evaluation Track, October 27--November 1, 2024 (Sacramento, California, United States) [[Link]](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)
+### Conferences
+1. **Mining Challenge Co‐Chair**, **23rd International Mining Software Repositories Conference (MSR 2026)**, Mining Challenge Track, Rio de Janeiro, Brazil, April 16--17, 2026. [[Link]](https://2026.msrconf.org/track/msr-2026-mining-challenge)
+1. **Program Committee Member**, **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track, March 17--20 , 2026 (Limassol, Cyprus) [[Link]](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
+1. **Program Committee Member**, **2nd ACM International Conference on AI-powered Software (AIware 2025)**, Benchmark & Dataset Track, November 19--20, 2025 (Seoul, South Korea) [[Link]](https://2025.aiwareconf.org/track/aiware-2025-benchmark---dataset-track)
+1. **Program Committee Member**, **35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)**, Poster Track, November 10--13, 2025 (Toronto, ON, Canada) [[Link]](https://conf.researchr.org/track/cascon-2025/posters-track)
+1. **Program Committee Member**, **39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)**, Artifact Evaluation Track, October 27--November 1, 2024 (Sacramento, California, United States) [[Link]](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)
 
 ### Invited Talks
-- Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Invited talk at the **Nara Institute of Science and Technology (NAIST)**, June 4, 2025 (Nara, Japan)
-- Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality, Journal-First, Presented at the **47th International Conference on Software Engineering (ICSE 2025)**, May 2, 2025 (Ottawa, ON, Canada). [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/1/Studying-the-Impact-of-TensorFlow-and-PyTorch-Bindings-on-Machine-Learning-Software-Q)
-- Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Software Engineering in Practice (SEIP), Presented at the **47th International Conference on Software Engineering (ICSE 2025)**, May 2, 2025 (Ottawa, ON, Canada). [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/54/Software-Engineering-and-Foundation-Models-Insights-from-Industry-Blogs-Using-a-Jury)
-- Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems, Journal-First, Presented at the **47th International Conference on Software Engineering (ICSE 2025)**, April 30, 2025 (Ottawa, ON, Canada).  [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/76/Bridging-the-Language-Gap-An-Empirical-Study-of-Bindings-for-Open-Source-Machine-Lea)
-- Foundation Models and Software Engineering: Insights from Industry Blogs, Invited talk at the **AIware Leadership Bootcamp 2024**, November 3, 2024 (Toronto, ON, Canada). [[Slides]](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [[Video]](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [[Link]](https://www.aiwarebootcamp.io/)
+1. Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Invited talk at the **Nara Institute of Science and Technology (NAIST)**, June 4, 2025 (Nara, Japan)
+1. Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality, Journal-First, Presented at the **47th International Conference on Software Engineering (ICSE 2025)**, May 2, 2025 (Ottawa, ON, Canada). [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/1/Studying-the-Impact-of-TensorFlow-and-PyTorch-Bindings-on-Machine-Learning-Software-Q)
+1. Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Software Engineering in Practice (SEIP), Presented at the **47th International Conference on Software Engineering (ICSE 2025)**, May 2, 2025 (Ottawa, ON, Canada). [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/54/Software-Engineering-and-Foundation-Models-Insights-from-Industry-Blogs-Using-a-Jury)
+1. Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems, Journal-First, Presented at the **47th International Conference on Software Engineering (ICSE 2025)**, April 30, 2025 (Ottawa, ON, Canada).  [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/76/Bridging-the-Language-Gap-An-Empirical-Study-of-Bindings-for-Open-Source-Machine-Lea)
+1. Foundation Models and Software Engineering: Insights from Industry Blogs, Invited talk at the **AIware Leadership Bootcamp 2024**, November 3, 2024 (Toronto, ON, Canada). [[Slides]](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [[Video]](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [[Link]](https://www.aiwarebootcamp.io/)
 
 ### Journal Reviewer
 
-- IEEE Transactions on Software Engineering (TSE)
-- ACM Transactions on Software Engineering and Methodology (TOSEM)
-- Springer Empirical Software Engineering (EMSE)
-- Elsevier Journal of Systems and Software (JSS)
-- Nature Scientific Data
-- Springer Software Quality Journal
-- IEEE Software
-- Elsevier Patterns
-- PeerJ Computer Science
+1. IEEE Transactions on Software Engineering (TSE)
+1. ACM Transactions on Software Engineering and Methodology (TOSEM)
+1. Springer Empirical Software Engineering (EMSE)
+1. Elsevier Journal of Systems and Software (JSS)
+1. Nature Scientific Data
+1. Springer Software Quality Journal
+1. IEEE Software
+1. Elsevier Patterns
+1. PeerJ Computer Science
