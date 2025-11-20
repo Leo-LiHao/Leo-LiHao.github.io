@@ -54,6 +54,14 @@ body, .page__content {
   margin-top: 2rem;
 }
 
+/* Publication index styling */
+.archive__item-index {
+  font-weight: 600;
+  color: #2c5aa0;
+  margin-right: 0.5rem;
+  font-size: 0.9em;
+}
+
 /* Profile enhancement */
 .author__avatar img {
   border: 2px solid #e9ecef;
@@ -200,6 +208,10 @@ a:hover {
   .publications-section h3 {
     border-left-color: #74b9ff !important;
     color: #ffffff !important;
+  }
+
+  .archive__item-index {
+    color: #74b9ff !important;
   }
 
   .page__content li {
