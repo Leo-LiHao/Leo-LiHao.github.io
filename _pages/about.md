@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). Before joining Queen’s University, I received my Ph.D. from the University of Alberta in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en).
 
-## Research Interests
+# Research Interests
 
 <div class="research-areas">
   <div class="research-item">
@@ -27,11 +27,11 @@ I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (S
   </div>
 </div>
 
-## Publications
+# Publications
 
 For the most up-to-date list of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=3xI3QLsAAAAJ&hl=en).
 
-### Preprints
+## Preprints
 
 **15\. Agent READMEs: An Empirical Study of Context Files for Agentic Coding.** Worawalan Chatlatanagulchai, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida. [[PDF]](https://leo-lihao.github.io/files/P15.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P15.bib)
 
@@ -63,7 +63,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 **1\. Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations.** Pouya Fathollahzadeh, Mariam El Mezouar, <u>Hao Li</u>, Ying Zou, Ahmed E. Hassan. [[PDF]](https://leo-lihao.github.io/files/P1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P1.bib)
 
-### Journal Articles
+## Journal Articles
 
 **4\. Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality.** <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Cor-Paul Bezemer. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[PDF]](https://leo-lihao.github.io/files/J3.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J3.bib)
 
@@ -73,13 +73,13 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 **1\. An Empirical Study of Yanked Releases in the Rust Package Registry.** <u>Hao Li</u>, Filipe R. Cogo, Cor-Paul Bezemer. *IEEE Transactions on Software Engineering (TSE), 2023*. [[PDF]](https://leo-lihao.github.io/files/J1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/J1.bib)
 
-### Conference Papers
+## Conference Papers
 
 **1\. Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models.** <u>Hao Li</u>, Cor-Paul Bezemer, Ahmed E. Hassan. *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*. [[PDF]](https://leo-lihao.github.io/files/C1.pdf) [[BibTeX]](https://leo-lihao.github.io/files/C1.bib)
 
-## Academic Services
+# Academic Services
 
-### Conferences
+## Conferences
 - **Mining Challenge Co‐Chair**, **23rd International Mining Software Repositories Conference (MSR 2026)**, Mining Challenge Track, April 16--17, 2026 (Rio de Janeiro, Brazil). [[Link]](https://2026.msrconf.org/track/msr-2026-mining-challenge)
 - **Program Committee Member**, **FSE 2026**, Student Research Competition Track, July 5--9, 2026 (Montreal, Canada). [[Link]](https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition)
 - **Program Committee Member**, **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track & Industrial Track, March 17--20, 2026 (Limassol, Cyprus). [[Link]](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
@@ -87,14 +87,14 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 - **Program Committee Member**, **35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)**, Poster Track, November 10--13, 2025 (Toronto, ON, Canada). [[Link]](https://conf.researchr.org/track/cascon-2025/posters-track)
 - **Program Committee Member**, **39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)**, Artifact Evaluation Track, October 27--November 1, 2024 (Sacramento, California, United States). [[Link]](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)
 
-### Invited Talks
+## Invited Talks
 - Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Invited talk at the **Nara Institute of Science and Technology (NAIST)**, June 4, 2025 (Nara, Japan).
 - Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality, Journal-First, Presented at the **47th International Conference on Software Engineering (ICSE 2025)**, May 2, 2025 (Ottawa, ON, Canada). [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/1/Studying-the-Impact-of-TensorFlow-and-PyTorch-Bindings-on-Machine-Learning-Software-Q)
 - Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Software Engineering in Practice (SEIP), Presented at the **47th International Conference on Software Engineering (ICSE 2025)**, May 2, 2025 (Ottawa, ON, Canada). [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/54/Software-Engineering-and-Foundation-Models-Insights-from-Industry-Blogs-Using-a-Jury)
 - Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems, Journal-First, Presented at the **47th International Conference on Software Engineering (ICSE 2025)**, April 30, 2025 (Ottawa, ON, Canada).  [[Link]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/76/Bridging-the-Language-Gap-An-Empirical-Study-of-Bindings-for-Open-Source-Machine-Lea)
 - Foundation Models and Software Engineering: Insights from Industry Blogs, Invited talk at the **AIware Leadership Bootcamp 2024**, November 3, 2024 (Toronto, ON, Canada). [[Slides]](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [[Video]](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [[Link]](https://www.aiwarebootcamp.io/)
 
-### Journal Reviewer
+## Journal Reviewer
 
 - IEEE Transactions on Software Engineering (TSE)
 - ACM Transactions on Software Engineering and Methodology (TOSEM)

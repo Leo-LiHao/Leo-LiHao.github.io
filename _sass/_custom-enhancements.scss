@@ -38,6 +38,13 @@ h6 {
   /* Slight breathing room */
 }
 
+/* Add a subtle red accent to major section headings */
+h2 {
+  border-left: 4px solid $muji-accent;
+  padding-left: 1rem;
+  line-height: 1.2;
+}
+
 /* Research areas styling - Minimalist Grid */
 .research-areas {
   display: grid;
@@ -68,14 +75,14 @@ h6 {
   border-color: transparent;
   box-shadow: none;
   transform: none;
-  opacity: 0.7;
+  opacity: 0.8;
   /* Subtle hover effect */
 }
 
 .research-item i {
   font-size: 1.2rem;
-  color: $muji-grey;
-  /* Grey icons instead of blue */
+  color: $muji-accent;
+  /* MUJI Red icons for visualization */
   margin-top: 0.3rem;
   /* Align with text */
 }
@@ -122,31 +129,40 @@ a:hover {
   text-decoration: none;
 }
 
-/* Enhanced button styling for PDF/BibTeX links - Minimalist Text */
+/* Enhanced button styling for PDF/BibTeX/Link/Video links - Minimalist Text */
 a[href$=".pdf"],
-a[href$=".bib"] {
+a[href$=".bib"],
+.page__content li a {
   display: inline-block;
   background: transparent;
-  color: $muji-grey;
+  color: $muji-accent;
+  /* Red text to stand out as actions */
   padding: 0 0.3rem;
-  border: 1px solid #ddd;
+  border: 1px solid $muji-accent;
+  /* Red border */
   border-radius: 2px;
   /* Slightly rounded */
-  margin-left: 0.5rem;
+  margin-left: 0.3rem;
+  /* Reduced margin for inline flow */
   font-size: 0.7rem;
   font-weight: 400;
   text-decoration: none;
   transition: all 0.2s ease;
   box-shadow: none;
   letter-spacing: 0.05em;
+  opacity: 0.8;
+  line-height: 1.2;
+  /* Fix vertical alignment */
 }
 
 a[href$=".pdf"]:hover,
-a[href$=".bib"]:hover {
-  background: transparent;
-  color: $muji-accent;
+a[href$=".bib"]:hover,
+.page__content li a:hover {
+  background: $muji-accent;
+  color: white;
   border-color: $muji-accent;
   text-decoration: none;
+  opacity: 1;
 }
 
 /* List styling */
@@ -187,6 +203,7 @@ a[href$=".bib"]:hover {
 }
 
 .masthead a:hover {
-  color: #000;
+  color: $muji-accent;
+  /* Red hover in nav */
   border-bottom: none;
 }
