@@ -33,6 +33,21 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ### Preprints
 
+1. **Agent READMEs: An Empirical Study of Context Files for Agentic Coding**  
+  Worawalan Chatlatanagulchai, ***Hao Li***, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P15.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P15.bib)
+
+1. **Agentic Refactoring: An Empirical Study of AI Coding Agents**  
+  Kosei Horikawa, ***Hao Li***, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P14.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P14.bib)
+
+1. **HAFixAgent: History-Aware Automated Program Repair Agent**  
+  Yu Shi, ***Hao Li***, Bram Adams, Ahmed E. Hassan  
+  *Under Review*  
+  [[PDF]](https://leo-lihao.github.io/files/P13.pdf) [[BibTeX]](https://leo-lihao.github.io/files/P13.bib)
+
 1. **An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications**  
   Mohammed Mehedi Hasan, ***Hao Li***, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan   
   *Under Review*  
@@ -126,7 +141,8 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ### Conferences
 1. **Mining Challenge Co‐Chair**, **23rd International Mining Software Repositories Conference (MSR 2026)**, Mining Challenge Track, Rio de Janeiro, Brazil, April 16--17, 2026. [[Link]](https://2026.msrconf.org/track/msr-2026-mining-challenge)
-1. **Program Committee Member**, **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track, March 17--20 , 2026 (Limassol, Cyprus) [[Link]](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
+1. **Program Committee Member**, **FSE 2026**, Student Research Competition Track, Sun 5 - Thu 9 July 2026 (Montreal, Canada) [[Link]](https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition).
+1. **Program Committee Member**, **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track & Industrial Track, March 17--20 , 2026 (Limassol, Cyprus) [[Link]](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
 1. **Program Committee Member**, **2nd ACM International Conference on AI-powered Software (AIware 2025)**, Benchmark & Dataset Track, November 19--20, 2025 (Seoul, South Korea) [[Link]](https://2025.aiwareconf.org/track/aiware-2025-benchmark---dataset-track)
 1. **Program Committee Member**, **35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)**, Poster Track, November 10--13, 2025 (Toronto, ON, Canada) [[Link]](https://conf.researchr.org/track/cascon-2025/posters-track)
 1. **Program Committee Member**, **39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)**, Artifact Evaluation Track, October 27--November 1, 2024 (Sacramento, California, United States) [[Link]](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)
