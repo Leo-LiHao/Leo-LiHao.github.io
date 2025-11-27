@@ -1,111 +1,119 @@
-/* Custom styling for enhanced visual appeal */
+/* Custom styling for enhanced visual appeal - Professional & Simple */
 
 /* General Body & Typography */
 body,
 .page__content {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  line-height: 1.7;
-  color: #2c3e50;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.8;
+  color: #333333;
   background-color: #ffffff;
 }
 
-/* Research areas styling */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #111111;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Research areas styling - Simplified */
 .research-areas {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1rem;
-  margin: 1.5rem 0;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
 }
 
 .research-item {
-  background: #f8f9fa;
-  color: #2c3e50;
-  padding: 1.2rem;
-  border-radius: 6px;
+  background: #ffffff;
+  color: #333333;
+  padding: 1.5rem;
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
   display: flex;
   align-items: center;
   gap: 1rem;
-  border: 1px solid #e9ecef;
   transition: all 0.2s ease;
-  min-height: 100px;
-  align-self: stretch;
+  min-height: 80px;
 }
 
 .research-item:hover {
-  background: #f1f3f4;
-  border-color: #4a90e2;
+  border-color: #0056b3;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transform: translateY(-2px);
 }
 
 .research-item i {
   font-size: 1.5rem;
-  color: #4a90e2;
-  opacity: 0.8;
+  color: #0056b3;
+  /* Professional Blue */
+  opacity: 0.9;
 }
 
 .research-item strong {
   font-size: 1rem;
-  line-height: 1.4;
   font-weight: 500;
+  color: #111;
 }
 
 /* Enhanced publication styling */
 .publications-section h3 {
-  border-left: 3px solid #4a90e2;
-  padding-left: 1rem;
-  margin-top: 2rem;
+  border-bottom: 2px solid #eaeaea;
+  padding-bottom: 0.5rem;
+  margin-top: 3rem;
+  font-size: 1.4rem;
 }
 
 /* Profile enhancement */
 .author__avatar img {
-  border: 2px solid #e9ecef;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  transition: all 0.2s ease;
-}
-
-.author__avatar img:hover {
-  border-color: #4a90e2;
+  border: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 /* Link styling improvements */
 a {
-  color: #2c5aa0;
+  color: #0056b3;
+  text-decoration: none;
   transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #1a5490;
+  color: #003d80;
+  text-decoration: underline;
 }
 
-/* Enhanced button styling for PDF/BibTeX links */
-.publication-links a {
+/* Enhanced button styling for PDF/BibTeX links - Minimalist */
+a[href$=".pdf"],
+a[href$=".bib"] {
   display: inline-block;
-  background: #2c5aa0;
-  color: white;
-  padding: 0.25rem 0.7rem;
+  background: transparent;
+  color: #0056b3;
+  padding: 0.1rem 0.5rem;
+  border: 1px solid #0056b3;
   border-radius: 4px;
-  margin-right: 0.4rem;
-  margin-bottom: 0.4rem;
-  font-size: 0.8rem;
+  margin-left: 0.3rem;
+  font-size: 0.75rem;
   font-weight: 500;
   text-decoration: none;
   transition: all 0.2s ease;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: none;
 }
 
-.publication-links a:hover {
-  background: #1a5490;
+a[href$=".pdf"]:hover,
+a[href$=".bib"]:hover {
+  background: #0056b3;
   color: white;
   text-decoration: none;
 }
 
-/* Card-like styling for content sections - REMOVED */
-.page__content p {
-  margin-bottom: 1.2rem;
-}
-
-/* Standard list styling restored */
+/* List styling */
 .page__content li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.8rem;
 }
 
 /* Responsive design improvements */
@@ -115,49 +123,12 @@ a:hover {
   }
 
   .research-item {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .research-item i {
-    margin-bottom: 0.5rem;
+    padding: 1rem;
   }
 }
 
-/* Improved navigation */
+/* Navigation & Header tweaks */
 .masthead {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid #eaeaea;
+  box-shadow: none;
 }
-
-
-
-// /* Enhanced section headers */
-// .page__content h2 {
-//   color: #2c3e50;
-//   border-bottom: 1px solid #e9ecef;
-//   padding-bottom: 0.5rem;
-//   margin-top: 2rem;
-//   position: relative;
-//   display: flex;
-//   align-items: center;
-//   gap: 0.5rem;
-//   font-weight: 600;
-
-//   &:before {
-//     content: "";
-//     position: absolute;
-//     bottom: -1px;
-//     left: 0;
-//     width: 40px;
-//     height: 2px;
-//     background: #4a90e2;
-//   }
-// }
-
-// .page__content h3 {
-//   display: flex;
-//   align-items: center;
-//   gap: 0.5rem;
-//   color: #34495e;
-//   margin-top: 2rem;
-// }
