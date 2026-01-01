@@ -85,10 +85,10 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Program Committee
 
-- **Program Committee Member**, **48th International Conference on Software Engineering (ICSE 2026)**, Industry Challenge Track, April 2026 (Rio de Janeiro, Brazil).
-- **Program Committee Member**, **42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026)**, Visions and Emerging Results (VER) Track, 2026.
+- **Program Committee Member**, **42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026)**, Visions and Emerging Results Track, September 14--18, 2026 (Benevento, Italy). [Link](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier)
 - **Program Committee Member**, **34th ACM International Conference on the Foundations of Software Engineering (FSE 2026)**, Student Research Competition Track, July 5--9, 2026 (Montreal, Canada). [Link](https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition)
-- **Program Committee Member**, **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track & Industrial Track, March 17--20, 2026 (Limassol, Cyprus). [Link](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
+- **Program Committee Member**, **48th International Conference on Software Engineering (ICSE 2026)**, Industry Challenge Track, April 12--18, 2026 (Rio de Janeiro, Brazil). [Link](https://conf.researchr.org/track/icse-2026/icse-2026-industry-challenge-track)
+- **Program Committee Member**, **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track + Industrial Track, March 17--20, 2026 (Limassol, Cyprus). [Link](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
 - **Program Committee Member**, **2nd ACM International Conference on AI-powered Software (AIware 2025)**, Benchmark & Dataset Track, November 19--20, 2025 (Seoul, South Korea). [Link](https://2025.aiwareconf.org/track/aiware-2025-benchmark---dataset-track)
 - **Program Committee Member**, **35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)**, Poster Track, November 10--13, 2025 (Toronto, ON, Canada). [Link](https://conf.researchr.org/track/cascon-2025/posters-track)
 - **Program Committee Member**, **39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)**, Artifact Evaluation Track, October 27--November 1, 2024 (Sacramento, California, United States). [Link](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)
