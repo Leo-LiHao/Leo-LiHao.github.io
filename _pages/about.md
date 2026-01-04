@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). Before joining Queen’s University, I received my Ph.D. from the University of Alberta in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en).
+I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). Before joining Queen’s University, I received my Ph.D. from the [University of Alberta](https://www.ualberta.ca/en/index.html) in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en).
 
 # Research Interests
 
@@ -61,7 +61,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 **6\. A Systematic Literature Review of Software Engineering Research on Jupyter Notebook.** Md Saeed Siddik, <u>Hao Li</u>, Cor-Paul Bezemer. *Journal of Systems and Software (JSS), 2026*. [PDF](https://leo-lihao.github.io/files/J6.pdf) [BibTeX](https://leo-lihao.github.io/files/J6.bib)
 
-**5\. Understanding Prompt Management in GitHub Repositories: A Call for Best Practices.** <u>Hao Li</u>, Hicham Masri, Filipe R. Cogo, Abdul Ali Bangash, Bram Adams, Ahmed E. Hassan. *IEEE Software, 2026*. [PDF](https://leo-lihao.github.io/files/J5.pdf) [BibTeX](https://leo-lihao.github.io/files/J5.bib)
+**5\. Understanding Prompt Management in GitHub Repositories: A Call for Best Practices.** <u>Hao Li</u>, Hicham Masri, Filipe R. Cogo, Abdul Ali Bangash, Bram Adams, Ahmed E. Hassan. *IEEE Software, 2025*. [PDF](https://leo-lihao.github.io/files/J5.pdf) [BibTeX](https://leo-lihao.github.io/files/J5.bib)
 
 **4\. Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality.** <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Cor-Paul Bezemer. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [PDF](https://leo-lihao.github.io/files/J3.pdf) [BibTeX](https://leo-lihao.github.io/files/J3.bib)
 
@@ -73,7 +73,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Conference Papers
 
-**2\. Mind the Merge: Evaluating the Effects of Token Merging on Pre-trained Models for Code.** Mootez Saad, <u>Hao Li</u>, Tushar Sharma, Ahmed E. Hassan. *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026*. [PDF](https://leo-lihao.github.io/files/C2.pdf) [BibTeX](https://leo-lihao.github.io/files/C2.bib)
+**2\. Mind the Merge: Evaluating the Effects of Token Merging on Pre-trained Models for Code.** Mootez Saad, <u>Hao Li</u>, Tushar Sharma, Ahmed E. Hassan. *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/C2.pdf) [BibTeX](https://leo-lihao.github.io/files/C2.bib)
 
 **1\. Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models.** <u>Hao Li</u>, Cor-Paul Bezemer, Ahmed E. Hassan. *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*. [PDF](https://leo-lihao.github.io/files/C1.pdf) [BibTeX](https://leo-lihao.github.io/files/C1.bib)
 
