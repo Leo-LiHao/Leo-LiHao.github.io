@@ -59,23 +59,23 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Journal Articles
 
-**6\. A Systematic Literature Review of Software Engineering Research on Jupyter Notebook.** Md Saeed Siddik, <u>Hao Li</u>, Cor-Paul Bezemer. *Journal of Systems and Software (JSS), 2026*. [PDF](https://leo-lihao.github.io/files/J6.pdf) [BibTeX](https://leo-lihao.github.io/files/J6.bib) [Link](https://doi.org/10.1016/j.jss.2025.112758)
+**6\. A Systematic Literature Review of Software Engineering Research on Jupyter Notebook.** Md Saeed Siddik, <u>Hao Li</u>, Cor-Paul Bezemer. *Journal of Systems and Software (JSS), 2026*. [PDF](https://leo-lihao.github.io/files/J6.pdf) [BibTeX](https://leo-lihao.github.io/files/J6.bib) [Publisher](https://doi.org/10.1016/j.jss.2025.112758){: .btn-pub}
 
-**5\. Understanding Prompt Management in GitHub Repositories: A Call for Best Practices.** <u>Hao Li</u>, Hicham Masri, Filipe R. Cogo, Abdul Ali Bangash, Bram Adams, Ahmed E. Hassan. *IEEE Software, 2025*. [PDF](https://leo-lihao.github.io/files/J5.pdf) [BibTeX](https://leo-lihao.github.io/files/J5.bib) [Link](https://doi.org/10.1109/MS.2025.3644251)
+**5\. Understanding Prompt Management in GitHub Repositories: A Call for Best Practices.** <u>Hao Li</u>, Hicham Masri, Filipe R. Cogo, Abdul Ali Bangash, Bram Adams, Ahmed E. Hassan. *IEEE Software, 2025*. [PDF](https://leo-lihao.github.io/files/J5.pdf) [BibTeX](https://leo-lihao.github.io/files/J5.bib) [Publisher](https://doi.org/10.1109/MS.2025.3644251){: .btn-pub}
 
-**4\. Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality.** <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Cor-Paul Bezemer. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [PDF](https://leo-lihao.github.io/files/J3.pdf) [BibTeX](https://leo-lihao.github.io/files/J3.bib) [Link](https://doi.org/10.1145/3678168)
+**4\. Studying the Impact of TensorFlow and PyTorch Bindings on Machine Learning Software Quality.** <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Cor-Paul Bezemer. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [PDF](https://leo-lihao.github.io/files/J3.pdf) [BibTeX](https://leo-lihao.github.io/files/J3.bib) [Publisher](https://doi.org/10.1145/3678168){: .btn-pub}
 
-**3\. Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems.** <u>Hao Li</u>, Cor-Paul Bezemer. *Empirical Software Engineering (EMSE), 2024*. [PDF](https://leo-lihao.github.io/files/J4.pdf) [BibTeX](https://leo-lihao.github.io/files/J4.bib) [Link](https://doi.org/10.1007/s10664-024-10570-5)
+**3\. Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries Across Software Package Ecosystems.** <u>Hao Li</u>, Cor-Paul Bezemer. *Empirical Software Engineering (EMSE), 2024*. [PDF](https://leo-lihao.github.io/files/J4.pdf) [BibTeX](https://leo-lihao.github.io/files/J4.bib) [Publisher](https://doi.org/10.1007/s10664-024-10570-5){: .btn-pub}
 
-**2\. Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting.** <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Dayi Lin, Cor-Paul Bezemer, Zhen Ming (Jack) Jiang. *IEEE Access, 2024*. [PDF](https://leo-lihao.github.io/files/J2.pdf) [BibTeX](https://leo-lihao.github.io/files/J2.bib) [Link](https://doi.org/10.1109/ACCESS.2024.3402543)
+**2\. Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting.** <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Dayi Lin, Cor-Paul Bezemer, Zhen Ming (Jack) Jiang. *IEEE Access, 2024*. [PDF](https://leo-lihao.github.io/files/J2.pdf) [BibTeX](https://leo-lihao.github.io/files/J2.bib) [Publisher](https://doi.org/10.1109/ACCESS.2024.3402543){: .btn-pub}
 
-**1\. An Empirical Study of Yanked Releases in the Rust Package Registry.** <u>Hao Li</u>, Filipe R. Cogo, Cor-Paul Bezemer. *IEEE Transactions on Software Engineering (TSE), 2023*. [PDF](https://leo-lihao.github.io/files/J1.pdf) [BibTeX](https://leo-lihao.github.io/files/J1.bib) [Link](https://doi.org/10.1109/TSE.2022.3152148)
+**1\. An Empirical Study of Yanked Releases in the Rust Package Registry.** <u>Hao Li</u>, Filipe R. Cogo, Cor-Paul Bezemer. *IEEE Transactions on Software Engineering (TSE), 2023*. [PDF](https://leo-lihao.github.io/files/J1.pdf) [BibTeX](https://leo-lihao.github.io/files/J1.bib) [Publisher](https://doi.org/10.1109/TSE.2022.3152148){: .btn-pub}
 
 ## Conference Papers
 
 **2\. Mind the Merge: Evaluating the Effects of Token Merging on Pre-trained Models for Code.** Mootez Saad, <u>Hao Li</u>, Tushar Sharma, Ahmed E. Hassan. *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/C2.pdf) [BibTeX](https://leo-lihao.github.io/files/C2.bib)
 
-**1\. Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models.** <u>Hao Li</u>, Cor-Paul Bezemer, Ahmed E. Hassan. *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*. [PDF](https://leo-lihao.github.io/files/C1.pdf) [BibTeX](https://leo-lihao.github.io/files/C1.bib) [Link](https://doi.org/10.1109/ICSE-SEIP66354.2025.00033)
+**1\. Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models.** <u>Hao Li</u>, Cor-Paul Bezemer, Ahmed E. Hassan. *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*. [PDF](https://leo-lihao.github.io/files/C1.pdf) [BibTeX](https://leo-lihao.github.io/files/C1.bib) [Link](https://2026.msrconf.org/track/msr-2026-mining-challenge)
 
 # Academic Services
 
