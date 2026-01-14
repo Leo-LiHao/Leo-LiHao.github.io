@@ -75,7 +75,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 **2\. Mind the Merge: Evaluating the Effects of Token Merging on Pre-trained Models for Code.** Mootez Saad, <u>Hao Li</u>, Tushar Sharma, Ahmed E. Hassan. *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/C2.pdf) [BibTeX](https://leo-lihao.github.io/files/C2.bib)
 
-**1\. Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models.** <u>Hao Li</u>, Cor-Paul Bezemer, Ahmed E. Hassan. *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*. [PDF](https://leo-lihao.github.io/files/C1.pdf) [BibTeX](https://leo-lihao.github.io/files/C1.bib) [Link](https://2026.msrconf.org/track/msr-2026-mining-challenge)
+**1\. Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models.** <u>Hao Li</u>, Cor-Paul Bezemer, Ahmed E. Hassan. *IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), 2025*. [PDF](https://leo-lihao.github.io/files/C1.pdf) [BibTeX](https://leo-lihao.github.io/files/C1.bib) [Publisher](https://doi.org/10.1109/ICSE-SEIP66354.2025.00033)
 
 # Academic Services
 

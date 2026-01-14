@@ -132,7 +132,7 @@ a:hover {
 /* Enhanced button styling for PDF/BibTeX/Link/Video links - Minimalist Text */
 a[href$=".pdf"],
 a[href$=".bib"],
-.btn-pub,
+a.btn-pub,
 .page__content li a {
   display: inline-block;
   background: transparent;
@@ -158,7 +158,7 @@ a[href$=".bib"],
 
 a[href$=".pdf"]:hover,
 a[href$=".bib"]:hover,
-.btn-pub:hover,
+a.btn-pub:hover,
 .page__content li a:hover {
   background: $muji-accent;
   color: white;
