@@ -33,31 +33,38 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Preprints
 
-**12\. Agent READMEs: An Empirical Study of Context Files for Agentic Coding.** Worawalan Chatlatanagulchai, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida. [PDF](https://leo-lihao.github.io/files/P15.pdf) [BibTeX](https://leo-lihao.github.io/files/P15.bib)
+**12\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib)
 
-**11\. Agentic Refactoring: An Empirical Study of AI Coding Agents.** Kosei Horikawa, <u>Hao Li</u>, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P14.pdf) [BibTeX](https://leo-lihao.github.io/files/P14.bib)
+**11\. Permissive-Washing in the Open AI Supply Chain: A Large-Scale Audit of License Integrity.** James Jewitt, Gopi Krishnan Rajbahadur, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P17.pdf) [BibTeX](https://leo-lihao.github.io/files/P17.bib)
 
-**10\. HAFixAgent: History-Aware Automated Program Repair Agent.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P13.pdf) [BibTeX](https://leo-lihao.github.io/files/P13.bib)
+**10\. Beyond Blame: Rethinking SZZ with Knowledge Graph Search.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P16.pdf) [BibTeX](https://leo-lihao.github.io/files/P16.bib)
 
-**9\. An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P12.pdf) [BibTeX](https://leo-lihao.github.io/files/P12.bib)
+**9\. Agent READMEs: An Empirical Study of Context Files for Agentic Coding.** Worawalan Chatlatanagulchai, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida. [PDF](https://leo-lihao.github.io/files/P15.pdf) [BibTeX](https://leo-lihao.github.io/files/P15.bib)
 
-**8\. From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem.** James Jewitt, <u>Hao Li</u>, Bram Adams, Gopi Krishnan Rajbahadur, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P10.pdf) [BibTeX](https://leo-lihao.github.io/files/P10.bib)
+**8\. Agentic Refactoring: An Empirical Study of AI Coding Agents.** Kosei Horikawa, <u>Hao Li</u>, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P14.pdf) [BibTeX](https://leo-lihao.github.io/files/P14.bib)
 
-**7\. On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub.** Miku Watanabe, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Hajimu Iida, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P9.pdf) [BibTeX](https://leo-lihao.github.io/files/P9.bib)
+**7\. HAFixAgent: History-Aware Automated Program Repair Agent.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P13.pdf) [BibTeX](https://leo-lihao.github.io/files/P13.bib)
 
-**6\. Agentic Software Engineering: Foundational Pillars and a Research Roadmap.** Ahmed E. Hassan, <u>Hao Li</u>, Dayi Lin, Bram Adams, Tse-Hsun Chen, Yutaro Kashiwa, Dong Qiu. [PDF](https://leo-lihao.github.io/files/P8.pdf) [BibTeX](https://leo-lihao.github.io/files/P8.bib)
+**6\. An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P12.pdf) [BibTeX](https://leo-lihao.github.io/files/P12.bib)
 
-**5\. The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering.** <u>Hao Li</u>, Haoxiang Zhang, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P7.pdf) [BibTeX](https://leo-lihao.github.io/files/P7.bib)
+**5\. From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem.** James Jewitt, <u>Hao Li</u>, Bram Adams, Gopi Krishnan Rajbahadur, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P10.pdf) [BibTeX](https://leo-lihao.github.io/files/P10.bib)
 
-**4\. Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P5.pdf) [BibTeX](https://leo-lihao.github.io/files/P5.bib)
+**4\. Agentic Software Engineering: Foundational Pillars and a Research Roadmap.** Ahmed E. Hassan, <u>Hao Li</u>, Dayi Lin, Bram Adams, Tse-Hsun Chen, Yutaro Kashiwa, Dong Qiu. [PDF](https://leo-lihao.github.io/files/P8.pdf) [BibTeX](https://leo-lihao.github.io/files/P8.bib)
 
-**3\. Can We Recycle Our Old Models? An Empirical Evaluation of Model Selection Mechanisms for AIOps Solutions.** Yingzhe Lyu, <u>Hao Li</u>, Heng Li, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P4.pdf) [BibTeX](https://leo-lihao.github.io/files/P4.bib)
+**3\. The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering.** <u>Hao Li</u>, Haoxiang Zhang, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P7.pdf) [BibTeX](https://leo-lihao.github.io/files/P7.bib)
 
-**2\. SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms.** Lin Geng, <u>Hao Li</u>, Sidney Givigi, Bram Adams. [PDF](https://leo-lihao.github.io/files/P2.pdf) [BibTeX](https://leo-lihao.github.io/files/P2.bib)
+**2\. Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P5.pdf) [BibTeX](https://leo-lihao.github.io/files/P5.bib)
 
-**1\. Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations.** Pouya Fathollahzadeh, Mariam El Mezouar, <u>Hao Li</u>, Ying Zou, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P1.pdf) [BibTeX](https://leo-lihao.github.io/files/P1.bib)
+**1\. SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms.** Lin Geng, <u>Hao Li</u>, Sidney Givigi, Bram Adams. [PDF](https://leo-lihao.github.io/files/P2.pdf) [BibTeX](https://leo-lihao.github.io/files/P2.bib)
+
 
 ## Journal Articles
+
+**9\. Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations.** Pouya Fathollahzadeh, Mariam El Mezouar, <u>Hao Li</u>, Ying Zou, Ahmed E. Hassan. *IEEE Transactions on Software Engineering (TSE), 2026*. [PDF](https://leo-lihao.github.io/files/P1.pdf) [BibTeX](https://leo-lihao.github.io/files/P1.bib) [Publisher](https://doi.org/10.1109/TSE.2026.3663599){: .btn-pub}
+
+**8\. On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub.** Miku Watanabe, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Hajimu Iida, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [PDF](https://leo-lihao.github.io/files/P9.pdf) [BibTeX](https://leo-lihao.github.io/files/P9.bib) [Publisher](https://doi.org/10.1145/3798166){: .btn-pub}
+
+**7\. Can We Recycle Our Old Models? An Empirical Evaluation of Model Selection Mechanisms for AIOps Solutions.** Yingzhe Lyu, <u>Hao Li</u>, Heng Li, Ahmed E. Hassan. *Empirical Software Engineering (EMSE), 2026*. [PDF](https://leo-lihao.github.io/files/P4.pdf) [BibTeX](https://leo-lihao.github.io/files/P4.bib) [Publisher](https://doi.org/10.1007/s10664-026-10834-2){: .btn-pub}
 
 **6\. A Systematic Literature Review of Software Engineering Research on Jupyter Notebook.** Md Saeed Siddik, <u>Hao Li</u>, Cor-Paul Bezemer. *Journal of Systems and Software (JSS), 2026*. [PDF](https://leo-lihao.github.io/files/J6.pdf) [BibTeX](https://leo-lihao.github.io/files/J6.bib) [Publisher](https://doi.org/10.1016/j.jss.2025.112758){: .btn-pub}
 
@@ -81,11 +88,15 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Organizing Committee
 
+- **Co-Chair**, **ACM CAIS 2026 Workshop on Agentic Software Engineering**, co-located with the 1st ACM Conference on AI and Agentic Systems (CAIS 2026), May 26, 2026 (San Jose, California). [Link](https://agenticse-cais.github.io/)
+- **Co-Chair**, **KDD 2026 Workshop on Agentic Software Engineering**, co-located with the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2026), August 10, 2026 (Jeju, Korea). [Link](https://agent-se.github.io)
 - **Mining Challenge Co‐Chair**, **23rd International Mining Software Repositories Conference (MSR 2026)**, Mining Challenge Track, April 16--17, 2026 (Rio de Janeiro, Brazil). [Link](https://2026.msrconf.org/track/msr-2026-mining-challenge)
 
 ## Program Committee
 
-- **Program Committee Member**, **42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026)**, Visions and Emerging Results Track, September 14--18, 2026 (Benevento, Italy). [Link](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier)
+- **Program Committee Member**, **49th International Conference on Software Engineering (ICSE 2027)**, Research Track, April 25--May 1, 2027 (Dublin, Ireland). [Link](https://conf.researchr.org/home/icse-2027)
+- **Program Committee Member**, **3rd ACM International Conference on AI-powered Software (AIware 2026)**, Main Track, July 6--7, 2026 (Montreal, Canada). [Link](https://2026.aiwareconf.org)
+- **Program Committee Member**, **42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026)**, Visions and Emerging Results Track + Tool Demonstration and Data Showcase Track, September 14--18, 2026 (Benevento, Italy). [Link](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier) [Link](https://conf.researchr.org/track/icsme-2026/icsme-2026-tool-demonstration)
 - **Program Committee Member**, **34th ACM International Conference on the Foundations of Software Engineering (FSE 2026)**, Student Research Competition Track, July 5--9, 2026 (Montreal, Canada). [Link](https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition)
 - **Program Committee Member**, **48th International Conference on Software Engineering (ICSE 2026)**, Industry Challenge Track, April 12--18, 2026 (Rio de Janeiro, Brazil). [Link](https://conf.researchr.org/track/icse-2026/icse-2026-industry-challenge-track)
 - **Program Committee Member**, **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track + Industrial Track, March 17--20, 2026 (Limassol, Cyprus). [Link](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
