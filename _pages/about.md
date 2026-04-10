@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). 
+I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). Before joining Queen’s University, I received my Ph.D. from the [University of Alberta](https://www.ualberta.ca/en/index.html) in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en).
 
 My primary research focuses on **Agentic Software Engineering**. As part of this initiative, I lead the creation of the **[AIDev dataset](https://huggingface.co/datasets/hao-li/AIDev)** to facilitate and advance research in AI-driven software development.
-
-Before joining Queen’s University, I received my Ph.D. from the [University of Alberta](https://www.ualberta.ca/en/index.html) in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en).
 
 # Call for Papers
 
