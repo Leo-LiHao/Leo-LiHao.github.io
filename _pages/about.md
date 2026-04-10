@@ -8,7 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). Before joining Queen’s University, I received my Ph.D. from the [University of Alberta](https://www.ualberta.ca/en/index.html) in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en).
+I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (SAIL)](https://sail.cs.queensu.ca/) and [lab on Maintenance, Construction and Intelligence of Software (MCIS)](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/), conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). 
+
+My primary research focuses on **Agentic Software Engineering**. As part of this initiative, I lead the creation of the **[AIDev dataset](https://huggingface.co/datasets/hao-li/AIDev)** to facilitate and advance research in AI-driven software development.
+
+Before joining Queen’s University, I received my Ph.D. from the [University of Alberta](https://www.ualberta.ca/en/index.html) in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en).
+
+# Call for Papers
+
+We are organizing the following events related to Agentic Software Engineering. Please consider submitting your work:
+
+- **[ACM CAIS 2026 Workshop](https://agenticse-cais.github.io)**
+  - **Deadline:** April 20, 2026
+  - **Location:** California, USA (May 26 to 29, 2026)
+  - **Link:** [https://agenticse-cais.github.io](https://agenticse-cais.github.io)
+- **[KDD 2026 Workshop](https://agent-se.github.io)**
+  - **Deadline:** May 10, 2026
+  - **Location:** Jeju, Korea (August 9 to 13, 2026)
+  - **Link:** [https://agent-se.github.io](https://agent-se.github.io)
+- **[Empirical Software Engineering (EMSE) Journal Special Issue](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)**
+  - **Deadline:** We are operating on a rolling review process. Submit when ready! (Final date: Sept 30, 2026)
+  - **Link:** [https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
 
 # Research Interests
 
