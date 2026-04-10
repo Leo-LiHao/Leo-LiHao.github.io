@@ -12,21 +12,18 @@ I am a Postdoctoral Researcher at the [Software Analysis and Intelligence Lab (S
 
 My primary research focuses on **Agentic Software Engineering**. As part of this initiative, I lead the creation of the **[AIDev dataset](https://huggingface.co/datasets/hao-li/AIDev)** to facilitate and advance research in AI-driven software development.
 
-# Call for Papers
+## Call for Papers
 
 We are organizing the following events related to Agentic Software Engineering. Please consider submitting your work:
 
-- **[ACM CAIS 2026 Workshop](https://agenticse-cais.github.io)**
-  - **Deadline:** April 20, 2026
+- **ACM CAIS 2026 Workshop**
+  - **Deadline:** April 20, 2026 [https://agenticse-cais.github.io](https://agenticse-cais.github.io)
   - **Location:** California, USA (May 26 to 29, 2026)
-  - **Link:** [https://agenticse-cais.github.io](https://agenticse-cais.github.io)
-- **[KDD 2026 Workshop](https://agent-se.github.io)**
-  - **Deadline:** May 10, 2026
+- **KDD 2026 Workshop**
+  - **Deadline:** May 10, 2026 [https://agent-se.github.io](https://agent-se.github.io)
   - **Location:** Jeju, Korea (August 9 to 13, 2026)
-  - **Link:** [https://agent-se.github.io](https://agent-se.github.io)
-- **[Empirical Software Engineering (EMSE) Journal Special Issue](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)**
-  - **Deadline:** We are operating on a rolling review process. Submit when ready! (Final date: Sept 30, 2026)
-  - **Link:** [https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
+- **Empirical Software Engineering (EMSE) Journal Special Issue**
+  - **Deadline:** We are operating on a rolling review process. Submit when ready! (Final date: Sept 30, 2026) [https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
 
 # Research Interests
 
