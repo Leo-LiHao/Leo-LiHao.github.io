@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Postdoctoral Researcher at [SAIL](https://sail.cs.queensu.ca/) and [MCIS](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/). 
-My primary research focuses on Agentic Software Engineering (AgenticSE). As part of this initiative, I lead the creation of the **[AIDev dataset](https://huggingface.co/datasets/hao-li/AIDev)** to facilitate and advance research in AgenticSE.
+My primary research focuses on [Agentic Software Engineering (AgenticSE)](https://agenticse-book.github.io/). As part of this initiative, I lead the creation of the **[AIDev dataset](https://huggingface.co/datasets/hao-li/AIDev)** to facilitate and advance research in AgenticSE.
 <!-- conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). I received my Ph.D. from the [University of Alberta](https://www.ualberta.ca/en/index.html) in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en). -->
 
 
@@ -29,12 +29,12 @@ My primary research focuses on Agentic Software Engineering (AgenticSE). As part
 
 <div class="cfp-notice" markdown="1">
 #### [**EMSE Special Issue**](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
-- Rolling reviews: submit when ready! (Final deadline: Sept 30, 2026)
+- **Rolling reviews:** submit when ready! (Final deadline: Sept 30, 2026)
 </div>
 
 <div class="cfp-notice" markdown="1">
-#### [**MSR 2026 Mining Challenge**](https://2026.msrconf.org/track/msr-2026-mining-challenge) (co-located with ICSE) <span class="cfp-location"><i class="fas fa-map-marker-alt"></i> Rio de Janeiro, Brazil (April 12 to 18, 2026)</span>
-- **Deadline:** ~~December 23, 2025~~ Update: See you in Brazil!
+#### [**MSR 2026 Mining Challenge**](https://2026.msrconf.org/track/msr-2026-mining-challenge) <span class="cfp-location"> <i class="fas fa-map-marker-alt"></i> Rio de Janeiro, Brazil (April 12 to 18, 2026)</span>
+- **Deadline:** ~~December 23, 2025~~ Update: See you in Rio (co-located with ICSE)!
 </div>
 
 # Research Interests
