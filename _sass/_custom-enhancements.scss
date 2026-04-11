@@ -214,8 +214,8 @@ a.btn-pub:hover,
   background: #ffffff;
   border: 1px solid #f0f0f0;
   border-left: 4px solid $muji-accent;
-  padding: 1rem 1.2rem;
-  margin: 1.2rem 0;
+  padding: 0.6rem 1rem;
+  margin: 0.6rem 0;
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
   transition: all 0.3s ease;
@@ -229,7 +229,7 @@ a.btn-pub:hover,
 
 .cfp-notice h4 {
   margin-top: 0 !important;
-  margin-bottom: 0.6rem !important;
+  margin-bottom: 0.3rem !important;
   line-height: 1.4;
 }
 
@@ -272,7 +272,7 @@ a.btn-pub:hover,
   list-style: none;
   padding-left: 1.2em !important;
   margin-bottom: 0 !important;
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: $muji-text;
 }
 
