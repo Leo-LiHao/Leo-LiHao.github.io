@@ -209,3 +209,64 @@ a.btn-pub:hover,
   /* Red hover in nav */
   border-bottom: none;
 }
+/* Enhanced styling for Call for Papers (CFP) blocks */
+.cfp-notice {
+  background: #ffffff;
+  border: 1px solid #f0f0f0;
+  border-left: 6px solid $muji-accent;
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.cfp-notice:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  border-left-color: #aa0022;
+}
+
+.cfp-notice h4 {
+  margin-top: 0 !important;
+  margin-bottom: 1rem !important;
+}
+
+.cfp-notice h4 a {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: $muji-accent;
+  border-bottom: none;
+  letter-spacing: 0.01em;
+}
+
+.cfp-notice h4 a:hover {
+  color: #aa0022;
+}
+
+.cfp-notice ul {
+  list-style: none;
+  padding-left: 1.2em !important;
+  margin-bottom: 0 !important;
+  font-size: 1.1rem;
+  color: $muji-text;
+}
+
+.cfp-notice ul li {
+  margin-bottom: 0.8rem !important;
+  line-height: 1.6;
+}
+
+.cfp-notice ul li::before {
+  content: '•';
+  color: $muji-accent;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+}
+
+.cfp-notice strong {
+  font-weight: 600;
+  color: #111;
+}

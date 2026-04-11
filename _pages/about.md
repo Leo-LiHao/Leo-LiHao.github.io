@@ -13,31 +13,31 @@ My primary research focuses on Agentic Software Engineering (AgenticSE). As part
 <!-- conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). I received my Ph.D. from the [University of Alberta](https://www.ualberta.ca/en/index.html) in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en). -->
 
 
-## Call for Papers
+**Call for Papers**
 
-We are organizing the following events related to Agentic Software Engineering. Please consider submitting your work:
+Submit your work to our upcoming Agentic Software Engineering events:
 
-<div class="notice--info" markdown="1">
-#### [**MSR 2026 Mining Challenge**](https://2026.msrconf.org/track/msr-2026-mining-challenge) (co-located with ICSE)
-- **Deadline:** ~~December 23, 2025~~ Update: See you in Brazil!
-- **Location:** Rio de Janeiro, Brazil (April 12 to 18, 2026)
-</div>
-
-<div class="notice--primary" markdown="1">
+<div class="cfp-notice" markdown="1">
 #### [**ACM CAIS 2026 Workshop**](https://agenticse-cais.github.io)
 - **Deadline:** April 20, 2026
 - **Location:** California, USA (May 26 to 29, 2026)
 </div>
 
-<div class="notice--success" markdown="1">
+<div class="cfp-notice" markdown="1">
 #### [**KDD 2026 Workshop**](https://agent-se.github.io)
 - **Deadline:** May 10, 2026 
 - **Location:** Jeju, Korea (August 9 to 13, 2026)
 </div>
 
-<div class="notice--warning" markdown="1">
+<div class="cfp-notice" markdown="1">
 #### [**EMSE Special Issue**](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
 - **Deadline:** We are operating on a rolling review process. Submit when ready! (Final date: Sept 30, 2026)
+</div>
+
+<div class="cfp-notice" markdown="1">
+#### [**MSR 2026 Mining Challenge**](https://2026.msrconf.org/track/msr-2026-mining-challenge) (co-located with ICSE)
+- **Deadline:** ~~December 23, 2025~~ Update: See you in Brazil!
+- **Location:** Rio de Janeiro, Brazil (April 12 to 18, 2026)
 </div>
 
 # Research Interests
