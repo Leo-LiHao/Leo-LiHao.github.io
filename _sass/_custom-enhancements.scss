@@ -213,28 +213,29 @@ a.btn-pub:hover,
 .cfp-notice {
   background: #ffffff;
   border: 1px solid #f0f0f0;
-  border-left: 6px solid $muji-accent;
-  padding: 1.5rem 2rem;
-  margin: 2rem 0;
-  border-radius: 8px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  border-left: 4px solid $muji-accent;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
   transition: all 0.3s ease;
 }
 
 .cfp-notice:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.06);
   border-left-color: #aa0022;
 }
 
 .cfp-notice h4 {
   margin-top: 0 !important;
-  margin-bottom: 1rem !important;
+  margin-bottom: 0.6rem !important;
+  line-height: 1.4;
 }
 
 .cfp-notice h4 a {
-  font-size: 1.4rem;
-  font-weight: 700;
+  font-size: 1.1rem;
+  font-weight: 600;
   color: $muji-accent;
   border-bottom: none;
   letter-spacing: 0.01em;
@@ -244,17 +245,40 @@ a.btn-pub:hover,
   color: #aa0022;
 }
 
+.cfp-location {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #777;
+  margin-left: 0.5rem;
+  white-space: nowrap;
+}
+
+.cfp-location i {
+  color: #999;
+  margin-right: 0.2rem;
+}
+
+/* Adjust for small screens to prevent overflow */
+@media (max-width: 600px) {
+  .cfp-location {
+    display: block;
+    margin-left: 0;
+    margin-top: 0.2rem;
+    white-space: normal;
+  }
+}
+
 .cfp-notice ul {
   list-style: none;
   padding-left: 1.2em !important;
   margin-bottom: 0 !important;
-  font-size: 1.1rem;
+  font-size: 0.95rem;
   color: $muji-text;
 }
 
 .cfp-notice ul li {
-  margin-bottom: 0.8rem !important;
-  line-height: 1.6;
+  margin-bottom: 0.3rem !important;
+  line-height: 1.5;
 }
 
 .cfp-notice ul li::before {

@@ -18,15 +18,13 @@ My primary research focuses on Agentic Software Engineering (AgenticSE). As part
 Submit your work to our upcoming Agentic Software Engineering events:
 
 <div class="cfp-notice" markdown="1">
-#### [**ACM CAIS 2026 Workshop**](https://agenticse-cais.github.io)
+#### [**ACM CAIS 2026 Workshop**](https://agenticse-cais.github.io) <span class="cfp-location"><i class="fas fa-map-marker-alt"></i> California, USA (May 26 to 29, 2026)</span>
 - **Deadline:** April 20, 2026
-- **Location:** California, USA (May 26 to 29, 2026)
 </div>
 
 <div class="cfp-notice" markdown="1">
-#### [**KDD 2026 Workshop**](https://agent-se.github.io)
+#### [**KDD 2026 Workshop**](https://agent-se.github.io) <span class="cfp-location"><i class="fas fa-map-marker-alt"></i> Jeju, Korea (August 9 to 13, 2026)</span>
 - **Deadline:** May 10, 2026 
-- **Location:** Jeju, Korea (August 9 to 13, 2026)
 </div>
 
 <div class="cfp-notice" markdown="1">
@@ -35,9 +33,8 @@ Submit your work to our upcoming Agentic Software Engineering events:
 </div>
 
 <div class="cfp-notice" markdown="1">
-#### [**MSR 2026 Mining Challenge**](https://2026.msrconf.org/track/msr-2026-mining-challenge) (co-located with ICSE)
+#### [**MSR 2026 Mining Challenge**](https://2026.msrconf.org/track/msr-2026-mining-challenge) (co-located with ICSE) <span class="cfp-location"><i class="fas fa-map-marker-alt"></i> Rio de Janeiro, Brazil (April 12 to 18, 2026)</span>
 - **Deadline:** ~~December 23, 2025~~ Update: See you in Brazil!
-- **Location:** Rio de Janeiro, Brazil (April 12 to 18, 2026)
 </div>
 
 # Research Interests
