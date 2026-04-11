@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at [SAIL](https://sail.cs.queensu.ca/) and [MCIS](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/). 
+I am a Postdoctoral Researcher with [SAIL](https://sail.cs.queensu.ca/) and [MCIS](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/). 
 My primary research focuses on [Agentic Software Engineering (AgenticSE)](https://agenticse-book.github.io/). As part of this initiative, I lead the creation of the **[AIDev dataset](https://huggingface.co/datasets/hao-li/AIDev)** to facilitate and advance research in AgenticSE.
 <!-- conducting research in Software Engineering and mentoring students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). I received my Ph.D. from the [University of Alberta](https://www.ualberta.ca/en/index.html) in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en). -->
 
@@ -34,7 +34,7 @@ My primary research focuses on [Agentic Software Engineering (AgenticSE)](https:
 
 <div class="cfp-notice" markdown="1">
 #### [**AIDev — MSR 2026 Mining Challenge**](https://2026.msrconf.org/track/msr-2026-mining-challenge) <span class="cfp-location"> <i class="fas fa-map-marker-alt"></i> Rio de Janeiro, Brazil (April 12 to 18, 2026)</span>
-- **Deadline:** ~~December 23, 2025~~ Update: See you in Rio (co-located with ICSE)!
+- ~~**Deadline:** December 23, 2025~~ Update: See you in Rio (co-located with ICSE)!
 </div>
 
 # Research Interests
