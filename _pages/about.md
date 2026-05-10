@@ -60,6 +60,8 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Preprints
 
+**13\. Do AI Coding Agents Log Like Humans? An Empirical Study.** Youssef Esseddiq Ouatiti, Mohammed Sayagh, <u>Hao Li</u>, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P19.pdf) [BibTeX](https://leo-lihao.github.io/files/P19.bib)
+
 **12\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib)
 
 **11\. Permissive-Washing in the Open AI Supply Chain: A Large-Scale Audit of License Integrity.** James Jewitt, Gopi Krishnan Rajbahadur, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P17.pdf) [BibTeX](https://leo-lihao.github.io/files/P17.bib)
