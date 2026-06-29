@@ -37,6 +37,12 @@ My primary research focuses on [Agentic Software Engineering (AgenticSE)](https:
 - ~~**Deadline:** December 23, 2025~~ Update: See you in Rio (co-located with ICSE)!
 </div> -->
 
+**News**
+
+<div class="cfp-notice" markdown="1">
+#### <i class="fas fa-plane"></i> I will attend [**FSE 2026**](https://conf.researchr.org/home/fse-2026) in Montreal, Canada (July 5--9, 2026). Feel free to reach out if you'd like to chat!
+</div>
+
 # Research Interests
 
 <div class="research-areas">
@@ -152,8 +158,8 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 - PeerJ Computer Science
 
 # Invited Talks
-- Agentic Software Engineering: The Rise of AI Teammates, Invited talk at **Cisco DevNet**, June 10, 2026. [Slides](/files/agentic_se_semla_cisco_trux.pdf) [Video](https://www.linkedin.com/events/agenticsoftwareengineering-ther7465885320711000064/theater/)
+- Agentic Software Engineering: The Rise of AI Teammates, Invited talk at **Cisco DevNet** (Virtual), June 10, 2026. [Slides](/files/agentic_se_semla_cisco_trux.pdf) [Video](https://www.linkedin.com/events/agenticsoftwareengineering-ther7465885320711000064/theater/)
 - Agentic Software Engineering: A Roadmap to Software Engineering 3.0, Tutorial at **SEMLA 2026**, June 3, 2026 (Montreal, QC, Canada). [Slides](/files/agentic_se_semla_cisco_trux.pdf) [Link](https://semla.polymtl.ca/tutorials/)
-- Agentic Software Engineering: The Rise of AI Teammates, Invited talk at the **TruX Distinguished Seminar Series**, May 4, 2026. [Slides](/files/agentic_se_semla_cisco_trux.pdf) [Video](https://youtu.be/37_JP7kcSi8?si=o25EaZunDIXKcshU)
+- Agentic Software Engineering: The Rise of AI Teammates, Invited talk at the **TruX Distinguished Seminar Series, University of Luxembourg** (Virtual), May 4, 2026. [Slides](/files/agentic_se_semla_cisco_trux.pdf) [Video](https://youtu.be/37_JP7kcSi8?si=o25EaZunDIXKcshU)
 - Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Invited talk at the **Nara Institute of Science and Technology (NAIST)**, June 4, 2025 (Nara, Japan).
 - Foundation Models and Software Engineering: Insights from Industry Blogs, Invited talk at the **AIware Leadership Bootcamp 2024**, November 3, 2024 (Toronto, ON, Canada). [Slides](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [Video](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [Link](https://www.aiwarebootcamp.io/)
