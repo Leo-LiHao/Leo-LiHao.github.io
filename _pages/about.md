@@ -19,7 +19,7 @@ My primary research focuses on [Agentic Software Engineering (AgenticSE)](https:
 
 <div class="cfp-notice" markdown="1">
 #### [**AgenticSE Workshop @ KDD 2026**](https://agent-se.github.io) <span class="cfp-location"> <i class="fas fa-map-marker-alt"></i> Jeju, Korea (August 9 to 13, 2026)</span>
-- **Deadline:** June 1, 2026 
+- ~~**Deadline:** June 1, 2026~~ Update: See you August 9 in Jeju!
 </div>
 
 <div class="cfp-notice" markdown="1">
@@ -27,10 +27,10 @@ My primary research focuses on [Agentic Software Engineering (AgenticSE)](https:
 - **Rolling reviews:** submit when ready! (Final deadline: Sept 30, 2026)
 </div>
 
-<div class="cfp-notice" markdown="1">
+<!-- <div class="cfp-notice" markdown="1">
 #### [**AgenticSE Workshop @ ACM CAIS 2026**](https://agenticse-cais.github.io) <span class="cfp-location"> <i class="fas fa-map-marker-alt"></i> California, USA (May 26 to 29, 2026)</span>
 - ~~**Deadline:** May 1, 2026~~ Update: See you in California (co-located with CAIS)!
-</div>
+</div> -->
 
 <!-- <div class="cfp-notice" markdown="1">
 #### [**AIDev — MSR 2026 Mining Challenge**](https://2026.msrconf.org/track/msr-2026-mining-challenge) <span class="cfp-location"> <i class="fas fa-map-marker-alt"></i> Rio de Janeiro, Brazil (April 12 to 18, 2026)</span>
@@ -60,34 +60,32 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Preprints
 
-**13\. Do AI Coding Agents Log Like Humans? An Empirical Study.** Youssef Esseddiq Ouatiti, Mohammed Sayagh, <u>Hao Li</u>, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P19.pdf) [BibTeX](https://leo-lihao.github.io/files/P19.bib)
+**10\. Do AI Coding Agents Log Like Humans? An Empirical Study.** Youssef Esseddiq Ouatiti, Mohammed Sayagh, <u>Hao Li</u>, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P19.pdf) [BibTeX](https://leo-lihao.github.io/files/P19.bib)
 
-**12\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib)
+**9\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib)
 
-**11\. Permissive-Washing in the Open AI Supply Chain: A Large-Scale Audit of License Integrity.** James Jewitt, Gopi Krishnan Rajbahadur, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P17.pdf) [BibTeX](https://leo-lihao.github.io/files/P17.bib)
+**8\. Beyond Blame: Rethinking SZZ with Knowledge Graph Search.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P16.pdf) [BibTeX](https://leo-lihao.github.io/files/P16.bib)
 
-**10\. Beyond Blame: Rethinking SZZ with Knowledge Graph Search.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P16.pdf) [BibTeX](https://leo-lihao.github.io/files/P16.bib)
+**7\. Agent READMEs: An Empirical Study of Context Files for Agentic Coding.** Worawalan Chatlatanagulchai, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida. [PDF](https://leo-lihao.github.io/files/P15.pdf) [BibTeX](https://leo-lihao.github.io/files/P15.bib)
 
-**9\. Agent READMEs: An Empirical Study of Context Files for Agentic Coding.** Worawalan Chatlatanagulchai, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida. [PDF](https://leo-lihao.github.io/files/P15.pdf) [BibTeX](https://leo-lihao.github.io/files/P15.bib)
+**6\. Agentic Refactoring: An Empirical Study of AI Coding Agents.** Kosei Horikawa, <u>Hao Li</u>, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P14.pdf) [BibTeX](https://leo-lihao.github.io/files/P14.bib)
 
-**8\. Agentic Refactoring: An Empirical Study of AI Coding Agents.** Kosei Horikawa, <u>Hao Li</u>, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P14.pdf) [BibTeX](https://leo-lihao.github.io/files/P14.bib)
+**5\. HAFixAgent: History-Aware Automated Program Repair Agent.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P13.pdf) [BibTeX](https://leo-lihao.github.io/files/P13.bib)
 
-**7\. HAFixAgent: History-Aware Automated Program Repair Agent.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P13.pdf) [BibTeX](https://leo-lihao.github.io/files/P13.bib)
+**4\. From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem.** James Jewitt, <u>Hao Li</u>, Bram Adams, Gopi Krishnan Rajbahadur, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P10.pdf) [BibTeX](https://leo-lihao.github.io/files/P10.bib)
 
-**6\. An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P12.pdf) [BibTeX](https://leo-lihao.github.io/files/P12.bib)
+**3\. Agentic Software Engineering: Foundational Pillars and a Research Roadmap.** Ahmed E. Hassan, <u>Hao Li</u>, Dayi Lin, Bram Adams, Tse-Hsun Chen, Yutaro Kashiwa, Dong Qiu. [PDF](https://leo-lihao.github.io/files/P8.pdf) [BibTeX](https://leo-lihao.github.io/files/P8.bib)
 
-**5\. From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem.** James Jewitt, <u>Hao Li</u>, Bram Adams, Gopi Krishnan Rajbahadur, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P10.pdf) [BibTeX](https://leo-lihao.github.io/files/P10.bib)
-
-**4\. Agentic Software Engineering: Foundational Pillars and a Research Roadmap.** Ahmed E. Hassan, <u>Hao Li</u>, Dayi Lin, Bram Adams, Tse-Hsun Chen, Yutaro Kashiwa, Dong Qiu. [PDF](https://leo-lihao.github.io/files/P8.pdf) [BibTeX](https://leo-lihao.github.io/files/P8.bib)
-
-**3\. The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering.** <u>Hao Li</u>, Haoxiang Zhang, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P7.pdf) [BibTeX](https://leo-lihao.github.io/files/P7.bib)
-
-**2\. Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P5.pdf) [BibTeX](https://leo-lihao.github.io/files/P5.bib)
+**2\. The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering.** <u>Hao Li</u>, Haoxiang Zhang, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P7.pdf) [BibTeX](https://leo-lihao.github.io/files/P7.bib)
 
 **1\. SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms.** Lin Geng, <u>Hao Li</u>, Sidney Givigi, Bram Adams. [PDF](https://leo-lihao.github.io/files/P2.pdf) [BibTeX](https://leo-lihao.github.io/files/P2.bib)
 
 
 ## Journal Articles
+
+**11\. An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. *Empirical Software Engineering (EMSE), 2026*. [PDF](https://leo-lihao.github.io/files/P12.pdf) [BibTeX](https://leo-lihao.github.io/files/P12.bib) [Publisher](https://link.springer.com/article/10.1007/s10664-026-10857-9){: .btn-pub}
+
+**10\. Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [PDF](https://leo-lihao.github.io/files/P5.pdf) [BibTeX](https://leo-lihao.github.io/files/P5.bib) [Publisher](https://dl.acm.org/doi/abs/10.1145/3814959){: .btn-pub}
 
 **9\. Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations.** Pouya Fathollahzadeh, Mariam El Mezouar, <u>Hao Li</u>, Ying Zou, Ahmed E. Hassan. *IEEE Transactions on Software Engineering (TSE), 2026*. [PDF](https://leo-lihao.github.io/files/P1.pdf) [BibTeX](https://leo-lihao.github.io/files/P1.bib) [Publisher](https://doi.org/10.1109/TSE.2026.3663599){: .btn-pub}
 
@@ -108,6 +106,10 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 **1\. An Empirical Study of Yanked Releases in the Rust Package Registry.** <u>Hao Li</u>, Filipe R. Cogo, Cor-Paul Bezemer. *IEEE Transactions on Software Engineering (TSE), 2023*. [PDF](https://leo-lihao.github.io/files/J1.pdf) [BibTeX](https://leo-lihao.github.io/files/J1.bib) [Publisher](https://doi.org/10.1109/TSE.2022.3152148){: .btn-pub}
 
 ## Conference Papers
+
+**4\. Permissive-Washing in the Open AI Supply Chain: A Large-Scale Audit of License Integrity.** James Jewitt, Gopi Krishnan Rajbahadur, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P17.pdf) [BibTeX](https://leo-lihao.github.io/files/P17.bib)
+
+**3\. AIDev: Studying AI Coding Agents on GitHub.** <u>Hao Li</u>, Haoxiang Zhang, Ahmed E. Hassan. *International Conference on Mining Software Repositories (MSR), Mining Challenge, 2026 (to appear)*. [arXiv](https://arxiv.org/abs/2602.09185)
 
 **2\. Mind the Merge: Evaluating the Effects of Token Merging on Pre-trained Models for Code.** Mootez Saad, <u>Hao Li</u>, Tushar Sharma, Ahmed E. Hassan. *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/C2.pdf) [BibTeX](https://leo-lihao.github.io/files/C2.bib)
 
@@ -133,6 +135,10 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 - **Program Committee Member**, **35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)**, Poster Track, November 10--13, 2025 (Toronto, ON, Canada). [Link](https://conf.researchr.org/track/cascon-2025/posters-track)
 - **Program Committee Member**, **39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)**, Artifact Evaluation Track, October 27--November 1, 2024 (Sacramento, California, United States). [Link](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)
 
+## Guest Editor
+
+- **Guest Editor**, **Empirical Software Engineering (EMSE)**, Special Issue on Agentic Software Engineering. [Link](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
+
 ## Journal Reviewer
 
 - IEEE Transactions on Software Engineering (TSE)
@@ -146,5 +152,8 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 - PeerJ Computer Science
 
 # Invited Talks
+- Agentic Software Engineering: The Rise of AI Teammates, Invited talk at **Cisco DevNet**, June 10, 2026. [Slides](/files/agentic_se_semla_cisco_trux.pdf) [Video](https://www.linkedin.com/events/agenticsoftwareengineering-ther7465885320711000064/theater/)
+- Agentic Software Engineering: A Roadmap to Software Engineering 3.0, Tutorial at **SEMLA 2026**, June 3, 2026 (Montreal, QC, Canada). [Slides](/files/agentic_se_semla_cisco_trux.pdf) [Link](https://semla.polymtl.ca/tutorials/)
+- Agentic Software Engineering: The Rise of AI Teammates, Invited talk at the **TruX Distinguished Seminar Series**, May 4, 2026. [Slides](/files/agentic_se_semla_cisco_trux.pdf) [Video](https://youtu.be/37_JP7kcSi8?si=o25EaZunDIXKcshU)
 - Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models, Invited talk at the **Nara Institute of Science and Technology (NAIST)**, June 4, 2025 (Nara, Japan).
 - Foundation Models and Software Engineering: Insights from Industry Blogs, Invited talk at the **AIware Leadership Bootcamp 2024**, November 3, 2024 (Toronto, ON, Canada). [Slides](https://www.aiwarebootcamp.io/slides/2024_aiwarebootcamp_li_foundation_models_and_software_engineering.pdf) [Video](https://www.youtube.com/watch?v=gVwr3Q8YdXg) [Link](https://www.aiwarebootcamp.io/)
