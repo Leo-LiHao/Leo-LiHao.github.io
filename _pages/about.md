@@ -40,7 +40,7 @@ My primary research focuses on [Agentic Software Engineering (AgenticSE)](https:
 **News**
 
 <div class="cfp-notice" markdown="1">
-#### <i class="fas fa-plane"></i> I will attend [**FSE 2026**](https://conf.researchr.org/home/fse-2026) in Montreal, Canada (July 5--9, 2026). Feel free to reach out!
+- <i class="fas fa-plane"></i> I will attend [**FSE 2026**](https://conf.researchr.org/home/fse-2026) in Montreal, Canada (July 5--9, 2026). Feel free to reach out!
 </div>
 
 # Research Interests
