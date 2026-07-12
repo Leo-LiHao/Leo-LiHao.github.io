@@ -191,6 +191,17 @@ exclude:
   - README
   - tmp
   - vendor
+  # Internal/dev files that must not be published as indexable pages (SEO/privacy cleanup)
+  - CLAUDE.md
+  - GEMINI.md
+  - CONTRIBUTING.md
+  - docker-compose.yaml
+  - progress_report
+  - markdown_generator
+  - scripts
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
 keep_files:
   - .git
   - .svn

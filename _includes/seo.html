@@ -48,8 +48,9 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
-  <meta property="og:description" name="description" content="{{ seo_description }}">
+{% if seo_description %}
+  <meta property="og:description" content="{{ seo_description }}">
+  <meta name="description" content="{{ seo_description }}">
 {% endif %}
 
 {% if site.twitter.username %}
@@ -87,6 +88,8 @@
   <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% elsif page.header.overlay_image %}
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% elsif site.og_image %}
+  <meta property="og:image" content="{% if site.og_image contains "://" %}{{ site.og_image }}{% else %}{{ site.og_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% endif %}
 
 {% if page.date %}
@@ -183,5 +186,30 @@
 {% for tag in page.tags %}
 <meta property="article:tag" content="{{ tag }}">
 {% endfor %}
+{% endif %}
+
+{% if page.collection == 'publications' %}
+<!-- Google Scholar (Highwire Press) citation tags -->
+<meta name="citation_title" content="{{ page.title | strip_html | strip_newlines | escape_once }}">
+{% if page.authors %}{% assign citation_authors = page.authors | split: "," %}{% for a in citation_authors %}
+<meta name="citation_author" content="{{ a | strip | escape_once }}">{% endfor %}{% else %}
+<meta name="citation_author" content="Hao Li">{% endif %}
+{% if page.date %}<meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">{% endif %}
+{% if page.venue %}{% if page.category == 'conferences' %}<meta name="citation_conference_title" content="{{ page.venue | escape_once }}">{% else %}<meta name="citation_journal_title" content="{{ page.venue | escape_once }}">{% endif %}{% endif %}
+{% if page.paperurl contains '.pdf' %}<meta name="citation_pdf_url" content="{{ page.paperurl }}">{% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": {{ page.title | jsonify }},
+  "name": {{ page.title | jsonify }},
+  "url": "{{ page.url | prepend: seo_url }}",
+  {% if page.date %}"datePublished": "{{ page.date | date: '%Y-%m-%d' }}",{% endif %}
+  {% if page.venue %}"isPartOf": { "@type": "Periodical", "name": {{ page.venue | jsonify }} },{% endif %}
+  {% if page.paperurl %}"sameAs": {{ page.paperurl | jsonify }},{% endif %}
+  "author": [{% if page.authors %}{% assign schema_authors = page.authors | split: "," %}{% for a in schema_authors %}{ "@type": "Person", "name": {{ a | strip | jsonify }} }{% unless forloop.last %},{% endunless %}{% endfor %}{% else %}{ "@type": "Person", "name": "Hao Li", "url": {{ seo_url | jsonify }} }{% endif %}],
+  "publisher": { "@type": "Person", "name": "Hao Li" }
+}
+</script>
 {% endif %}
 <!-- end SEO -->
