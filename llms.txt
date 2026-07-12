@@ -1,0 +1,43 @@
+# Hao Li
+
+> Hao Li is a Postdoctoral Researcher at Queen's University (SAIL Lab and MCIS Lab)
+> in Kingston, Ontario, Canada. He researches Agentic Software Engineering (AgenticSE),
+> Software Engineering for AI (SE4AI), and software package ecosystems, and leads the
+> creation of the AIDev dataset. He received his Ph.D. from the University of Alberta
+> in 2024. ORCID: 0000-0003-4468-5972.
+
+## Identity
+- Full name: Hao Li
+- Role: Postdoctoral Researcher
+- Affiliation: Queen's University, Kingston, Ontario, Canada
+- Labs: SAIL (https://sail.cs.queensu.ca/), MCIS (https://mcis.cs.queensu.ca/)
+- Ph.D.: University of Alberta, 2024 (Advisor: Cor-Paul Bezemer)
+- Postdoc advisors: Ahmed E. Hassan, Bram Adams
+- Email: hao.li@queensu.ca
+- ORCID: https://orcid.org/0000-0003-4468-5972
+- Google Scholar: https://scholar.google.com/citations?user=3xI3QLsAAAAJ&hl=en
+- GitHub: https://github.com/Leo-LiHao
+- LinkedIn: https://www.linkedin.com/in/li-hao
+- Website: https://leo-lihao.github.io
+
+## Research areas
+- Agentic Software Engineering (AgenticSE): https://agenticse-book.github.io/
+- Software Engineering for Artificial Intelligence (SE4AI)
+- Software Package Ecosystems
+
+## Datasets
+- AIDev — AI coding agents on GitHub: https://huggingface.co/datasets/hao-li/AIDev
+
+## Selected papers
+- Agentic Software Engineering: Foundational Pillars and a Research Roadmap — https://leo-lihao.github.io/files/P8.pdf
+- The Rise of AI Teammates in Software Engineering (SE) 3.0 — https://leo-lihao.github.io/files/P7.pdf
+- AIDev: Studying AI Coding Agents on GitHub (MSR 2026) — https://arxiv.org/abs/2602.09185
+- Model Context Protocol (MCP) at First Glance (TOSEM 2026) — https://leo-lihao.github.io/files/P5.pdf
+- On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub (TOSEM 2026) — https://leo-lihao.github.io/files/P9.pdf
+- Software Engineering and Foundation Models (ICSE-SEIP 2025) — https://leo-lihao.github.io/files/C1.pdf
+- An Empirical Study of Yanked Releases in the Rust Package Registry (TSE 2023) — https://leo-lihao.github.io/files/J1.pdf
+
+## Full, always-current lists
+- All publications: https://leo-lihao.github.io/publications/
+- Google Scholar (most up to date): https://scholar.google.com/citations?user=3xI3QLsAAAAJ&hl=en
+- Talks: https://leo-lihao.github.io/talks/

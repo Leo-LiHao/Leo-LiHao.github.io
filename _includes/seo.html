@@ -104,58 +104,48 @@
   <link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}">
 {% endif %}
 
-{% if site.og_image %}
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "url": {{ seo_url | jsonify }},
-      "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
-    }
-  </script>
-{% endif %}
-
 {% if site.social %}
   <script type="application/ld+json">
-    {
-      "@context" : "http://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
-      "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }},
-      {% if site.social.type == "Person" %}
-      "jobTitle": "Postdoctoral Researcher",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Queen's University",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Kingston",
-          "addressRegion": "Ontario",
-          "addressCountry": "Canada"
-        }
-      },
-      "alumniOf": "University of Alberta",
-      "knows": [
-        {
-          "@type": "Person",
-          "name": "Ahmed E. Hassan"
-        },
-        {
-          "@type": "Person", 
-          "name": "Bram Adams"
-        },
-        {
-          "@type": "Person",
-          "name": "Cor-Paul Bezemer"
-        }
-      ],
-      "worksFor": {
-        "@type": "Organization",
-        "name": "Queen's University"
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": {{ site.social.name | default: site.name | jsonify }},
+    "url": {{ seo_url | jsonify }},
+    "image": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }},
+    "description": {{ site.description | jsonify }},
+    "email": "mailto:{{ site.author.email }}",
+    "jobTitle": "Postdoctoral Researcher",
+    "sameAs": {{ site.social.links | jsonify }},
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "Queen's University",
+      "url": "https://www.queensu.ca/",
+      "sameAs": "https://en.wikipedia.org/wiki/Queen%27s_University",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kingston",
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
       }
-      {% endif %}
-    }
+    },
+    "worksFor": {
+      "@type": "CollegeOrUniversity",
+      "name": "Queen's University",
+      "url": "https://www.queensu.ca/",
+      "sameAs": "https://en.wikipedia.org/wiki/Queen%27s_University"
+    },
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Alberta",
+      "url": "https://www.ualberta.ca/",
+      "sameAs": "https://en.wikipedia.org/wiki/University_of_Alberta"
+    },
+    "knows": [
+      { "@type": "Person", "name": "Ahmed E. Hassan", "sameAs": "https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en" },
+      { "@type": "Person", "name": "Bram Adams", "sameAs": "https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en" },
+      { "@type": "Person", "name": "Cor-Paul Bezemer", "sameAs": "https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en" }
+    ]
+  }
   </script>
 {% endif %}
 

@@ -164,6 +164,7 @@ include:
   - _pages
   - files
   - robots.txt
+  - llms.txt
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
