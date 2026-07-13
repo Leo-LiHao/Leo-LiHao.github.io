@@ -112,9 +112,23 @@
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
+    "@id": {{ seo_url | append: "/#website" | jsonify }},
     "name": "Hao Li",
     "alternateName": {{ site.title | jsonify }},
     "url": {{ seo_url | append: "/" | jsonify }}
+  }
+  </script>
+  <!-- ProfilePage schema: marks the homepage as Hao Li's author/profile page (Google's recommended pattern) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "@id": {{ seo_url | append: "/#profilepage" | jsonify }},
+    "url": {{ seo_url | append: "/" | jsonify }},
+    "name": "Hao Li — Postdoctoral Researcher",
+    "isPartOf": { "@id": {{ seo_url | append: "/#website" | jsonify }} },
+    "mainEntity": { "@id": {{ seo_url | append: "/#person" | jsonify }} },
+    "dateModified": "{{ site.time | date_to_xmlschema }}"
   }
   </script>
 {% endif %}
@@ -124,6 +138,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Person",
+    "@id": {{ seo_url | append: "/#person" | jsonify }},
     "name": {{ site.social.name | default: site.name | jsonify }},
     "url": {{ seo_url | jsonify }},
     "image": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }},
@@ -210,10 +225,10 @@
   "name": {{ page.title | jsonify }},
   "url": "{{ page.url | prepend: seo_url }}",
   {% if page.date %}"datePublished": "{{ page.date | date: '%Y-%m-%d' }}",{% endif %}
-  {% if page.venue %}"isPartOf": { "@type": "Periodical", "name": {{ page.venue | jsonify }} },{% endif %}
+  {% if page.venue %}"isPartOf": { "@type": "{% if page.category == 'conferences' %}CreativeWork{% else %}Periodical{% endif %}", "name": {{ page.venue | jsonify }} },{% endif %}
   {% if page.paperurl %}"sameAs": {{ page.paperurl | jsonify }},{% endif %}
-  "author": [{% if page.authors %}{% assign schema_authors = page.authors | split: "," %}{% for a in schema_authors %}{ "@type": "Person", "name": {{ a | strip | jsonify }} }{% unless forloop.last %},{% endunless %}{% endfor %}{% else %}{ "@type": "Person", "name": "Hao Li", "url": {{ seo_url | jsonify }} }{% endif %}],
-  "publisher": { "@type": "Person", "name": "Hao Li" }
+  "author": [{% if page.authors %}{% assign schema_authors = page.authors | split: "," %}{% for a in schema_authors %}{% assign an = a | strip %}{ "@type": "Person", "name": {{ an | jsonify }}{% if an == "Hao Li" %}, "@id": {{ seo_url | append: "/#person" | jsonify }}, "sameAs": "https://orcid.org/0000-0003-4468-5972"{% endif %} }{% unless forloop.last %},{% endunless %}{% endfor %}{% else %}{ "@type": "Person", "name": "Hao Li", "@id": {{ seo_url | append: "/#person" | jsonify }}, "url": {{ seo_url | jsonify }} }{% endif %}],
+  "mainEntityOfPage": "{{ page.url | prepend: seo_url }}"
 }
 </script>
 {% endif %}
