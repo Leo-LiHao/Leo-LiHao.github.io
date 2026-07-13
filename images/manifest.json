@@ -1,5 +1,6 @@
 {
-	"name": "OOjs UI icon academic-progressive",
+	"name": "Hao Li - Postdoctoral Researcher",
+	"short_name": "Hao Li",
 	"icons": [
 		{
 			"src": "/images/favicon-192x192.png",
@@ -11,5 +12,7 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-	]
+	],
+	"theme_color": "#9d1939",
+	"background_color": "#ffffff"
 }

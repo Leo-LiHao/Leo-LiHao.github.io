@@ -1,14 +1,15 @@
 ---
 permalink: /
 title: "About Me"
-description: "Hao Li - Postdoctoral Researcher at Queen's University specializing in Software Engineering and AI. Research in SE4AI, AI4SE, and Software Package Ecosystems."
+seo_title: "Hao Li - Queen's University Canada"
+description: "Hao Li - Postdoctoral Researcher at Queen's University Canada specializing in Software Engineering and AI. Research in SE4AI, AI4SE, and Software Package Ecosystems."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Postdoctoral Researcher with [SAIL](https://sail.cs.queensu.ca/) and [MCIS](https://mcis.cs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/). 
+I am a Postdoctoral Researcher with [SAIL](https://sail.cs.queensu.ca/) and [MCIS](https://mcis.cs.queensu.ca/) at [Queen’s University Canada](https://www.queensu.ca/). 
 My primary research focuses on [Agentic Software Engineering (AgenticSE)](https://agenticse-book.github.io/). As part of this initiative, I lead the creation of the **[AIDev dataset](https://huggingface.co/datasets/hao-li/AIDev)** to facilitate and advance research in AgenticSE.
 I conduct research in Software Engineering and mentor students under the supervision of Dr. [Ahmed E. Hassan](https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en) and Dr. [Bram Adams](https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en). I received my Ph.D. from the [University of Alberta](https://www.ualberta.ca/en/index.html) in 2024 under the supervision of Dr. [Cor-Paul Bezemer](https://scholar.google.com/citations?user=8HgcKdoAAAAJ&hl=en).
 
