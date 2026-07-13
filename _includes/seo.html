@@ -131,6 +131,20 @@
     "dateModified": "{{ site.time | date_to_xmlschema }}"
   }
   </script>
+  <!-- Dataset schema: makes the AIDev dataset a first-class, citable entity for AI engines and Google Dataset Search -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "AIDev",
+    "description": "A dataset of AI coding agents' activity on GitHub (e.g., the pull requests they open), created to facilitate and advance empirical research in Agentic Software Engineering (AgenticSE).",
+    "url": "https://huggingface.co/datasets/hao-li/AIDev",
+    "sameAs": "https://huggingface.co/datasets/hao-li/AIDev",
+    "creator": { "@id": {{ seo_url | append: "/#person" | jsonify }} },
+    "keywords": ["AI coding agents", "Agentic Software Engineering", "GitHub", "pull requests", "software engineering"],
+    "isAccessibleForFree": true
+  }
+  </script>
 {% endif %}
 
 {% if site.social %}
@@ -170,6 +184,17 @@
       "url": "https://www.ualberta.ca/",
       "sameAs": "https://en.wikipedia.org/wiki/University_of_Alberta"
     },
+    "honorificPrefix": "Dr.",
+    "knowsAbout": [
+      "Agentic Software Engineering",
+      "Software Engineering for AI (SE4AI)",
+      "AI Coding Agents",
+      "Software Package Ecosystems",
+      "Mining Software Repositories",
+      "Empirical Software Engineering",
+      "Model Context Protocol (MCP)",
+      "Large Language Models for Software Engineering"
+    ],
     "knows": [
       { "@type": "Person", "name": "Ahmed E. Hassan", "sameAs": "https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en" },
       { "@type": "Person", "name": "Bram Adams", "sameAs": "https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en" },

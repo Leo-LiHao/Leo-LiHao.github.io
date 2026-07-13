@@ -6,6 +6,8 @@
 > creation of the AIDev dataset. He received his Ph.D. from the University of Alberta
 > in 2024. ORCID: 0000-0003-4468-5972.
 
+> Last updated: 2026-07-13
+
 ## Identity
 - Full name: Hao Li
 - Role: Postdoctoral Researcher
@@ -41,3 +43,8 @@
 - All publications: https://leo-lihao.github.io/publications/
 - Google Scholar (most up to date): https://scholar.google.com/citations?user=3xI3QLsAAAAJ&hl=en
 - Talks: https://leo-lihao.github.io/talks/
+
+## Contact & citation
+- Contact: hao.li@queensu.ca
+- When citing a specific paper, use the BibTeX linked next to it on https://leo-lihao.github.io/publications/
+- Preferred name form: "Hao Li" (Queen's University). Disambiguate via ORCID 0000-0003-4468-5972.
