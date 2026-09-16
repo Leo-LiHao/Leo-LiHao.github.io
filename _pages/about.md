@@ -73,11 +73,11 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Preprints
 
-**9\. On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces.** Ahmed Hereiz, Yingzhe Lyu, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2608.28497) [BibTeX](https://leo-lihao.github.io/files/P22.bib)
+**9\. On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces.** Ahmed Hereiz, Yingzhe Lyu, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2608.28497){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P22.bib)
 
-**8\. Don't Trust the Label: License Laundering in AI Supply Chains.** James Jewitt, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.20300) [BibTeX](https://leo-lihao.github.io/files/P21.bib)
+**8\. Don't Trust the Label: License Laundering in AI Supply Chains.** James Jewitt, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.20300){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P21.bib)
 
-**7\. Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality.** Oussama Ben Sghaier, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.03691) [BibTeX](https://leo-lihao.github.io/files/P20.bib)
+**7\. Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality.** Oussama Ben Sghaier, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.03691){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P20.bib)
 
 **6\. Do AI Coding Agents Log Like Humans? An Empirical Study.** Youssef Esseddiq Ouatiti, Mohammed Sayagh, <u>Hao Li</u>, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P19.pdf) [BibTeX](https://leo-lihao.github.io/files/P19.bib)
 
@@ -96,9 +96,9 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 **14\. Agentic Refactoring: An Empirical Study of AI Coding Agents.** Kosei Horikawa, <u>Hao Li</u>, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P14.pdf) [BibTeX](https://leo-lihao.github.io/files/P14.bib)
 
-**13\. Agent READMEs: An Empirical Study of Context Files for Agentic Coding.** Worawalan Chatlatanagulchai, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P15.pdf) [BibTeX](https://leo-lihao.github.io/files/P15.bib)
+**13\. Agent READMEs: An Empirical Study of Context Files for Agentic Coding.** Worawalan Chatlatanagulchai, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [PDF](https://leo-lihao.github.io/files/P15.pdf) [BibTeX](https://leo-lihao.github.io/files/P15.bib) [Publisher](https://dl.acm.org/doi/10.1145/3840295){: .btn-pub}
 
-**12\. SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms.** Lin Geng, <u>Hao Li</u>, Sidney Givigi, Bram Adams. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P2.pdf) [BibTeX](https://leo-lihao.github.io/files/P2.bib)
+**12\. SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms.** Lin Geng, <u>Hao Li</u>, Sidney Givigi, Bram Adams. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [PDF](https://leo-lihao.github.io/files/P2.pdf) [BibTeX](https://leo-lihao.github.io/files/P2.bib) [Publisher](https://dl.acm.org/doi/10.1145/3846184){: .btn-pub}
 
 **11\. An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. *Empirical Software Engineering (EMSE), 2026*. [PDF](https://leo-lihao.github.io/files/P12.pdf) [BibTeX](https://leo-lihao.github.io/files/P12.bib) [Publisher](https://link.springer.com/article/10.1007/s10664-026-10857-9){: .btn-pub}
 
@@ -126,7 +126,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 **4\. Permissive-Washing in the Open AI Supply Chain: A Large-Scale Audit of License Integrity.** James Jewitt, Gopi Krishnan Rajbahadur, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2026*. [PDF](https://leo-lihao.github.io/files/P17.pdf) [BibTeX](https://leo-lihao.github.io/files/P17.bib) [Publisher](https://dl.acm.org/doi/10.1145/3770855.3818130){: .btn-pub}
 
-**3\. AIDev: Studying AI Coding Agents on GitHub.** <u>Hao Li</u>, Haoxiang Zhang, Ahmed E. Hassan. *International Conference on Mining Software Repositories (MSR), Mining Challenge, 2026*. [arXiv](https://arxiv.org/abs/2602.09185) [BibTeX](https://leo-lihao.github.io/files/C3.bib) [Publisher](https://dl.acm.org/doi/10.1145/3793302.3797249){: .btn-pub}
+**3\. AIDev: Studying AI Coding Agents on GitHub.** <u>Hao Li</u>, Haoxiang Zhang, Ahmed E. Hassan. *International Conference on Mining Software Repositories (MSR), Mining Challenge, 2026*. [PDF](https://arxiv.org/pdf/2602.09185){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/C3.bib) [Publisher](https://dl.acm.org/doi/10.1145/3793302.3797249){: .btn-pub}
 
 **2\. Mind the Merge: Evaluating the Effects of Token Merging on Pre-trained Models for Code.** Mootez Saad, <u>Hao Li</u>, Tushar Sharma, Ahmed E. Hassan. *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026*. [PDF](https://leo-lihao.github.io/files/C2.pdf) [BibTeX](https://leo-lihao.github.io/files/C2.bib) [Publisher](https://ieeexplore.ieee.org/document/11576528){: .btn-pub}
 
