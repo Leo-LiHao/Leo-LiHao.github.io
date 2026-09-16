@@ -73,19 +73,17 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Preprints
 
-**10\. On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces.** Ahmed Hereiz, Yingzhe Lyu, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2608.28497) [BibTeX](https://leo-lihao.github.io/files/P22.bib)
+**9\. On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces.** Ahmed Hereiz, Yingzhe Lyu, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2608.28497) [BibTeX](https://leo-lihao.github.io/files/P22.bib)
 
-**9\. Don't Trust the Label: License Laundering in AI Supply Chains.** James Jewitt, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.20300) [BibTeX](https://leo-lihao.github.io/files/P21.bib)
+**8\. Don't Trust the Label: License Laundering in AI Supply Chains.** James Jewitt, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.20300) [BibTeX](https://leo-lihao.github.io/files/P21.bib)
 
-**8\. Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality.** Oussama Ben Sghaier, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.03691) [BibTeX](https://leo-lihao.github.io/files/P20.bib)
+**7\. Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality.** Oussama Ben Sghaier, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.03691) [BibTeX](https://leo-lihao.github.io/files/P20.bib)
 
-**7\. Do AI Coding Agents Log Like Humans? An Empirical Study.** Youssef Esseddiq Ouatiti, Mohammed Sayagh, <u>Hao Li</u>, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P19.pdf) [BibTeX](https://leo-lihao.github.io/files/P19.bib)
+**6\. Do AI Coding Agents Log Like Humans? An Empirical Study.** Youssef Esseddiq Ouatiti, Mohammed Sayagh, <u>Hao Li</u>, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P19.pdf) [BibTeX](https://leo-lihao.github.io/files/P19.bib)
 
-**6\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib)
+**5\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib)
 
-**5\. AgenticSZZ: Temporal Knowledge Graph-Guided Agentic Bug-Inducing Commit Identification.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P16.pdf) [BibTeX](https://leo-lihao.github.io/files/P16.bib)
-
-**4\. Agentic Refactoring: An Empirical Study of AI Coding Agents.** Kosei Horikawa, <u>Hao Li</u>, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P14.pdf) [BibTeX](https://leo-lihao.github.io/files/P14.bib)
+**4\. AgenticSZZ: Temporal Knowledge Graph-Guided Agentic Bug-Inducing Commit Identification.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P16.pdf) [BibTeX](https://leo-lihao.github.io/files/P16.bib)
 
 **3\. HAFixAgent: History-Aware Automated Program Repair Agent.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P13.pdf) [BibTeX](https://leo-lihao.github.io/files/P13.bib)
 
@@ -95,6 +93,8 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 
 ## Journal Articles
+
+**14\. Agentic Refactoring: An Empirical Study of AI Coding Agents.** Kosei Horikawa, <u>Hao Li</u>, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P14.pdf) [BibTeX](https://leo-lihao.github.io/files/P14.bib)
 
 **13\. Agent READMEs: An Empirical Study of Context Files for Agentic Coding.** Worawalan Chatlatanagulchai, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P15.pdf) [BibTeX](https://leo-lihao.github.io/files/P15.bib)
 
