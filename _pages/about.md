@@ -21,7 +21,7 @@ My primary research focuses on [Agentic Software Engineering (AgenticSE)](https:
 
 <div class="cfp-notice" markdown="1">
 #### [**EMSE Special Issue on AgenticSE**](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
-- **Rolling reviews:** submit when ready! (**Final deadline: Sept 30, 2026** — closing soon!)
+- **Rolling reviews:** submit when ready! (**Final deadline: Oct 15, 2026** — closing soon!)
 </div>
 
 <!-- <div class="cfp-notice" markdown="1">
