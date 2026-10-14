@@ -20,6 +20,11 @@ My primary research focuses on [Agentic Software Engineering (AgenticSE)](https:
 <!-- Submit your work to our upcoming Agentic Software Engineering events: -->
 
 <div class="cfp-notice" markdown="1">
+#### [**AgenticSE Workshop @ AAAI-27**](https://agenticse-aaai.github.io) <span class="cfp-location"> <i class="fas fa-map-marker-alt"></i> Montréal, Canada (February 22 or 23, 2027)</span>
+- **Deadline:** November 20, 2026 (AoE)
+</div>
+
+<div class="cfp-notice" markdown="1">
 #### [**EMSE Special Issue on AgenticSE**](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
 - **Rolling reviews:** submit when ready! (**Final deadline: Oct 15, 2026** — closing soon!)
 </div>
@@ -73,15 +78,15 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Preprints
 
-**9\. On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces.** Ahmed Hereiz, Yingzhe Lyu, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2608.28497){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P22.bib)
+**9\. Zero2Repo: Can Coding Agents Build Repositories from Scratch?** Pei Yang, Tianyu Shi, Yuhang Yao, Wanyi Chen, Tongyun Yang, Dun Pei, Haonan Wang, Pengbin Feng, Guanxu Yu, Jingchun Huang, Zeyu Zhang, Shuhan Sun, <u>Hao Li</u>, Xiang Li, Jie Xiao, Xinyu Wang, Hanxin Chen, Daqi Li, Qi Jia, Hongshan Lin, Zhizhou Gu, Zijun Tian, Weizhi Du, Lynn Ai, Eric Yang. [PDF](https://arxiv.org/pdf/2609.38269){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P23.bib)
 
-**8\. Don't Trust the Label: License Laundering in AI Supply Chains.** James Jewitt, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.20300){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P21.bib)
+**8\. On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces.** Ahmed Hereiz, Yingzhe Lyu, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2608.28497){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P22.bib)
 
-**7\. Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality.** Oussama Ben Sghaier, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.03691){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P20.bib)
+**7\. Don't Trust the Label: License Laundering in AI Supply Chains.** James Jewitt, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.20300){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P21.bib)
 
-**6\. Do AI Coding Agents Log Like Humans? An Empirical Study.** Youssef Esseddiq Ouatiti, Mohammed Sayagh, <u>Hao Li</u>, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P19.pdf) [BibTeX](https://leo-lihao.github.io/files/P19.bib)
+**6\. Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality.** Oussama Ben Sghaier, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://arxiv.org/pdf/2607.03691){: .btn-pub} [BibTeX](https://leo-lihao.github.io/files/P20.bib)
 
-**5\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib)
+**5\. Do AI Coding Agents Log Like Humans? An Empirical Study.** Youssef Esseddiq Ouatiti, Mohammed Sayagh, <u>Hao Li</u>, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P19.pdf) [BibTeX](https://leo-lihao.github.io/files/P19.bib)
 
 **4\. AgenticSZZ: Temporal Knowledge Graph-Guided Agentic Bug-Inducing Commit Identification.** Yu Shi, <u>Hao Li</u>, Bram Adams, Ahmed E. Hassan. [PDF](https://leo-lihao.github.io/files/P16.pdf) [BibTeX](https://leo-lihao.github.io/files/P16.bib)
 
@@ -94,6 +99,8 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Journal Articles
 
+**15\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib)
+
 **14\. Agentic Refactoring: An Empirical Study of AI Coding Agents.** Kosei Horikawa, <u>Hao Li</u>, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P14.pdf) [BibTeX](https://leo-lihao.github.io/files/P14.bib)
 
 **13\. Agent READMEs: An Empirical Study of Context Files for Agentic Coding.** Worawalan Chatlatanagulchai, <u>Hao Li</u>, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [PDF](https://leo-lihao.github.io/files/P15.pdf) [BibTeX](https://leo-lihao.github.io/files/P15.bib) [Publisher](https://dl.acm.org/doi/10.1145/3840295){: .btn-pub}
@@ -102,7 +109,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 **11\. An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. *Empirical Software Engineering (EMSE), 2026*. [PDF](https://leo-lihao.github.io/files/P12.pdf) [BibTeX](https://leo-lihao.github.io/files/P12.bib) [Publisher](https://link.springer.com/article/10.1007/s10664-026-10857-9){: .btn-pub}
 
-**10\. Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Bram Adams, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [PDF](https://leo-lihao.github.io/files/P5.pdf) [BibTeX](https://leo-lihao.github.io/files/P5.bib) [Publisher](https://dl.acm.org/doi/abs/10.1145/3814959){: .btn-pub}
+**10\. Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [PDF](https://leo-lihao.github.io/files/P5.pdf) [BibTeX](https://leo-lihao.github.io/files/P5.bib) [Publisher](https://dl.acm.org/doi/abs/10.1145/3814959){: .btn-pub}
 
 **9\. Towards Refining Developer Questions using LLM-Based Named Entity Recognition for Developer Chatroom Conversations.** Pouya Fathollahzadeh, Mariam El Mezouar, <u>Hao Li</u>, Ying Zou, Ahmed E. Hassan. *IEEE Transactions on Software Engineering (TSE), 2026*. [PDF](https://leo-lihao.github.io/files/P1.pdf) [BibTeX](https://leo-lihao.github.io/files/P1.bib) [Publisher](https://doi.org/10.1109/TSE.2026.3663599){: .btn-pub}
 
@@ -136,25 +143,32 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Guest Editor
 
-- **Guest Editor**, **Empirical Software Engineering (EMSE)**, Special Issue on Agentic Software Engineering. [Link](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
+- **Empirical Software Engineering (EMSE)**, Special Issue on Agentic Software Engineering. [Link](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
 
 ## Organizing Committee
 
-- **Co-Chair**, **ACM CAIS 2026 Workshop on Agentic Software Engineering**, co-located with the 1st ACM Conference on AI and Agentic Systems (CAIS 2026), May 26, 2026 (San Jose, California). [Link](https://agenticse-cais.github.io/)
-- **Co-Chair**, **KDD 2026 Workshop on Agentic Software Engineering**, co-located with the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2026), August 10, 2026 (Jeju, Korea). [Link](https://agent-se.github.io)
-- **Mining Challenge Co‐Chair**, **23rd International Mining Software Repositories Conference (MSR 2026)**, Mining Challenge Track, April 16--17, 2026 (Rio de Janeiro, Brazil). [Link](https://2026.msrconf.org/track/msr-2026-mining-challenge)
+- **AAAI-27 Workshop on Agentic Software Engineering**, co-located with the 41st AAAI Conference on Artificial Intelligence (AAAI-27), February 22/23, 2027 (Montréal, Canada). [Link](https://agenticse-aaai.github.io/)
+- **ACM CAIS 2026 Workshop on Agentic Software Engineering**, co-located with the 1st ACM Conference on AI and Agentic Systems (CAIS 2026), May 26, 2026 (San Jose, California). [Link](https://agenticse-cais.github.io/)
+- **KDD 2026 Workshop on Agentic Software Engineering**, co-located with the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2026), August 10, 2026 (Jeju, Korea). [Link](https://agent-se.github.io)
+- **Mining Challenge Track** at the 23rd International Mining Software Repositories Conference (MSR 2026), April 16--17, 2026 (Rio de Janeiro, Brazil). [Link](https://2026.msrconf.org/track/msr-2026-mining-challenge)
 
-## Program Committee
+## Program Committee Member
 
-- **Program Committee Member**, **49th International Conference on Software Engineering (ICSE 2027)**, Research Track, April 25--May 1, 2027 (Dublin, Ireland). [Link](https://conf.researchr.org/home/icse-2027)
-- **Program Committee Member**, **3rd ACM International Conference on AI-powered Software (AIware 2026)**, Main Track, July 6--7, 2026 (Montreal, Canada). [Link](https://2026.aiwareconf.org)
-- **Program Committee Member**, **42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026)**, Visions and Emerging Results Track + Tool Demonstration and Data Showcase Track, September 14--18, 2026 (Benevento, Italy). [Link](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier) [Link](https://conf.researchr.org/track/icsme-2026/icsme-2026-tool-demonstration)
-- **Program Committee Member**, **34th ACM International Conference on the Foundations of Software Engineering (FSE 2026)**, Student Research Competition Track, July 5--9, 2026 (Montreal, Canada). [Link](https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition)
-- **Program Committee Member**, **48th International Conference on Software Engineering (ICSE 2026)**, Industry Challenge Track, April 12--18, 2026 (Rio de Janeiro, Brazil). [Link](https://conf.researchr.org/track/icse-2026/icse-2026-industry-challenge-track)
-- **Program Committee Member**, **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track + Industrial Track, March 17--20, 2026 (Limassol, Cyprus). [Link](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
-- **Program Committee Member**, **2nd ACM International Conference on AI-powered Software (AIware 2025)**, Benchmark & Dataset Track, November 19--20, 2025 (Seoul, South Korea). [Link](https://2025.aiwareconf.org/track/aiware-2025-benchmark---dataset-track)
-- **Program Committee Member**, **35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)**, Poster Track, November 10--13, 2025 (Toronto, ON, Canada). [Link](https://conf.researchr.org/track/cascon-2025/posters-track)
-- **Program Committee Member**, **39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)**, Artifact Evaluation Track, October 27--November 1, 2024 (Sacramento, California, United States). [Link](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)
+- **5th IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2027)**, May 3--6, 2027 (Reykjavik, Iceland). [Link](https://satml.org/)
+- **49th International Conference on Software Engineering (ICSE 2027)**, Research Track, April 25--May 1, 2027 (Dublin, Ireland). [Link](https://conf.researchr.org/home/icse-2027)
+- **24th International Mining Software Repositories Conference (MSR 2027)**, Technical Papers Track, April 26--27, 2027 (Dublin, Ireland). [Link](https://conf.researchr.org/track/msr-2027/msr-2027-technical-papers)
+- **35th IEEE/ACM International Conference on Program Comprehension (ICPC 2027)**, Research Track, April 25--26, 2027 (Dublin, Ireland). [Link](https://conf.researchr.org/track/icpc-2027/icpc-2027-research-track)
+- **34th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2027)**, Industrial Track, March 9--12, 2027 (Richmond, Virginia, United States). [Link](https://conf.researchr.org/track/saner-2027/saner-2027-industrial-track)
+- **36th International Conference on Collaborative Advances in Software and Computing (CASCON 2026)**, Posters Track, November 9--12, 2026 (Toronto, ON, Canada). [Link](https://conf.researchr.org/track/cascon-2026/casconposters2026)
+- **1st International Workshop on Trustworthy and Responsible Autonomous Systems (TRUST 2026)**, co-located with ASE 2026, October 12, 2026 (Munich, Germany). [Link](https://conf.researchr.org/home/ase-2026/trust-2026)
+- **3rd ACM International Conference on AI-powered Software (AIware 2026)**, Main Track, July 6--7, 2026 (Montreal, Canada). [Link](https://2026.aiwareconf.org)
+- **42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026)**, Visions and Emerging Results Track + Tool Demonstration and Data Showcase Track, September 14--18, 2026 (Benevento, Italy). [Link](https://conf.researchr.org/track/icsme-2026/icsme-2026-nier) [Link](https://conf.researchr.org/track/icsme-2026/icsme-2026-tool-demonstration)
+- **34th ACM International Conference on the Foundations of Software Engineering (FSE 2026)**, Artifacts Track + Student Research Competition Track, July 5--9, 2026 (Montreal, Canada). [Link](https://conf.researchr.org/track/fse-2026/fse-2026-artifacts) [Link](https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition)
+- **48th International Conference on Software Engineering (ICSE 2026)**, Industry Challenge Track, April 12--18, 2026 (Rio de Janeiro, Brazil). [Link](https://conf.researchr.org/track/icse-2026/icse-2026-industry-challenge-track)
+- **33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026)**, Short Papers and Posters Track + Industrial Track, March 17--20, 2026 (Limassol, Cyprus). [Link](https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track)
+- **2nd ACM International Conference on AI-powered Software (AIware 2025)**, Benchmark & Dataset Track, November 19--20, 2025 (Seoul, South Korea). [Link](https://2025.aiwareconf.org/track/aiware-2025-benchmark---dataset-track)
+- **35th International Conference on Collaborative Advances in Software and COmputiNg (CASCON 2025)**, Poster Track, November 10--13, 2025 (Toronto, ON, Canada). [Link](https://conf.researchr.org/track/cascon-2025/posters-track)
+- **39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)**, Artifact Evaluation Track, October 27--November 1, 2024 (Sacramento, California, United States). [Link](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)
 
 ## Journal Reviewer
 
