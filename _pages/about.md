@@ -24,10 +24,10 @@ My primary research focuses on [Agentic Software Engineering (AgenticSE)](https:
 - **Deadline:** November 20, 2026 (AoE)
 </div>
 
-<div class="cfp-notice" markdown="1">
+<!-- <div class="cfp-notice" markdown="1">
 #### [**EMSE Special Issue on AgenticSE**](https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html)
-- **Rolling reviews:** submit when ready! (**Final deadline: Oct 15, 2026** — closing soon!)
-</div>
+- ~~**Final deadline:** October 15, 2026~~ Update: Submissions closed. Thank you to all authors!
+</div> -->
 
 <!-- <div class="cfp-notice" markdown="1">
 #### [**AgenticSE Workshop @ KDD 2026**](https://agent-se.github.io) <span class="cfp-location"> <i class="fas fa-map-marker-alt"></i> Jeju, Korea (August 9 to 13, 2026)</span>
@@ -99,7 +99,7 @@ For the most up-to-date list of my publications, please see my [Google Scholar p
 
 ## Journal Articles
 
-**15\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib)
+**15\. Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions.** Mohammed Mehedi Hasan, <u>Hao Li</u>, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [PDF](https://leo-lihao.github.io/files/P18.pdf) [BibTeX](https://leo-lihao.github.io/files/P18.bib) [Publisher](https://dl.acm.org/doi/10.1145/3858625){: .btn-pub}
 
 **14\. Agentic Refactoring: An Empirical Study of AI Coding Agents.** Kosei Horikawa, <u>Hao Li</u>, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026 (to appear)*. [PDF](https://leo-lihao.github.io/files/P14.pdf) [BibTeX](https://leo-lihao.github.io/files/P14.bib)
 
