@@ -31,7 +31,7 @@
 - AIDev — AI coding agents on GitHub: https://huggingface.co/datasets/hao-li/AIDev
 
 ## Selected papers
-- Agentic Software Engineering: Foundational Pillars and a Research Roadmap — https://leo-lihao.github.io/files/P8.pdf
+- Agentic Software Engineering: Foundational Pillars and a Research Roadmap (TOSEM 2026) — https://leo-lihao.github.io/files/P8.pdf
 - The Rise of AI Teammates in Software Engineering (SE) 3.0 — https://leo-lihao.github.io/files/P7.pdf
 - AIDev: Studying AI Coding Agents on GitHub (MSR 2026) — https://arxiv.org/abs/2602.09185
 - Model Context Protocol (MCP) at First Glance (TOSEM 2026) — https://leo-lihao.github.io/files/P5.pdf
